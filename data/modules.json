@@ -1,0 +1,76 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "gelehrte",
+   "side": "nachwelt",
+   "kurz": "Die gelehrte Äbtissin, 1502–1521",
+   "warum": "Was die Humanisten an Caritas bewunderten und was sie ihr schrieben: Christoph Scheurls lateinischer Brief und Konrad Celtis’ Gedicht an sie, gedruckt 1513, und die Briefe zwischen ihr und ihrem Bruder Willibald. Wer war die Frau, mit der der Rat 1525 stritt?",
+   "quelle": "Epistola D. Scheurli ad Charitatem Pirchameram, Carmen Conradi Celtis ad eandem (Druck 1513); F. Münch, Charitas Pirkheimer, ihre Schwestern und Nichten. Biographie und Nachlass (Nürnberg 1826)."
+  },
+  {
+   "id": "sindflut",
+   "side": "konvent",
+   "kurz": "Die große Sündflut: der Anfang, 1524",
+   "warum": "Wie Caritas ihren Bericht beginnt: Für 1524 war eine große Sündflut vorhergesagt, und sie kam als Streit um den Glauben. Die erste Bittschrift des Konvents an den Rat, um die Franziskaner als Beichtväter zu behalten, und die Briefe an den Pfleger Kaspar Nützel.",
+   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 3–18."
+  },
+  {
+   "id": "dieb",
+   "side": "familien",
+   "kurz": "Verhört man doch einen Dieb: Margaretha Tetzel, 1525",
+   "warum": "Mutter und Onkel wollen Margaretha Tetzel aus dem Kloster holen und weigern sich, sie auch nur am Redefenster anzuhören. Margaretha schreibt dem Pfleger: ‚verhört man doch einen dieb, ee man jn henckt‘. Das Recht, gehört zu werden, und wer es verweigerte.",
+   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 19–30."
+  },
+  {
+   "id": "prediger",
+   "side": "reform",
+   "kurz": "Die Väter genommen, die Prediger geschickt, 1525",
+   "warum": "Der Rat nimmt dem Kloster die Franziskaner und schickt evangelische Prediger, unter ihnen Andreas Osiander. Was die Schwestern in ihrer Kirche hören mussten, wie die Stadt über sie redete, und was der Rat ihnen über Habit, Gitter und Gelübde abverlangte.",
+   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 31–97 (Auswahl)."
+  },
+  {
+   "id": "toechter",
+   "side": "familien",
+   "kurz": "Da stee ich: die Töchter, Juni 1525",
+   "warum": "Drei Mütter lassen ihre Töchter, Katharina Ebner, Clara Nützel und Margaretha Tetzel, mit Gewalt aus dem Kloster ziehen. Katharina sagt vorher: ‚da stee ich und will nicht weichen‘. Die Gewalt wird erzählt, wie Caritas sie erzählt, und die Gründe der Mütter werden genannt.",
+   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 98–110."
+  },
+  {
+   "id": "melanchthon",
+   "side": "reform",
+   "kurz": "Melanchthon am Redefenster, Martini 1525",
+   "warum": "Der Pfleger bringt Philipp Melanchthon ins Kloster. Was der Wittenberger der Äbtissin sagte, was sie ihm antwortete und was er danach dem Rat riet. Dazu Melanchthons eigene Briefe aus diesen Wochen, wenn sie die Begegnung berühren.",
+   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 128–152; Corpus Reformatorum I (1834), Briefe 1525 (zu prüfen)."
+  },
+  {
+   "id": "ordnung",
+   "side": "rat",
+   "kurz": "Ohne Novizinnen: der Rat und das Kloster, 1526–1528",
+   "warum": "Was der Rat am Ende beschloss: kein Zwang mehr gegen die Schwestern, aber keine Novizinnen, keine Ordensoberen, kein Gelübde. Die letzten Briefe der Denkwürdigkeiten und wie Caritas die Lage beschrieb, in der ihr Kloster weiterleben, aber nicht mehr wachsen durfte.",
+   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 153–190 (Auswahl)."
+  },
+  {
+   "id": "willibald",
+   "side": "nachwelt",
+   "kurz": "Der Bruder: Willibald Pirckheimer und das Kloster",
+   "warum": "Willibald Pirckheimer, Humanist, Ratsherr und Freund Dürers, stand anfangs der neuen Lehre nahe und verteidigte doch das Kloster seiner Schwestern. Seine Briefe und seine Schutzschrift für das Klarakloster, soweit sie gemeinfrei gedruckt sind.",
+   "quelle": "F. Münch (1826); W. Pirckheimer, Opera (hg. Goldast, Frankfurt 1610) und spätere Drucke (zu prüfen)."
+  },
+  {
+   "id": "ende",
+   "side": "nachwelt",
+   "kurz": "Bis 1596: das Ende des Klosters",
+   "warum": "Was nach Caritas’ Tod 1532 geschah: die letzten Äbtissinnen, die letzten Schwestern, und 1596 der Tod der letzten. Nach der Klosterchronik, die der Bamberger Klarissenbeichtvater Christian Koppius 1628 aus Nürnberger Chroniken und ‚lebendigen Zeugnissen‘ zusammenschrieb.",
+   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), Anhang (Koppius 1628), S. 200–207."
+  },
+  {
+   "id": "vergleich",
+   "side": "reform",
+   "kurz": "Luther und die Nonnen",
+   "warum": "Was die Reformatoren über das Klosterleben von Frauen lehrten, und was davon in Nürnberg ankam: Luthers Schrift ‚Ursach und Antwort, dass Jungfrauen Klöster göttlich verlassen mögen‘ (1523) neben Caritas’ Antwort, die Schwestern hinauszutreiben ‚wer nit evangelisch‘.",
+   "quelle": "M. Luther, Ursach und Antwort, dass Jungfrauen Klöster göttlich verlassen mögen (1523), in einer gemeinfreien Ausgabe (zu prüfen)."
+  }
+ ],
+ "missing": []
+}

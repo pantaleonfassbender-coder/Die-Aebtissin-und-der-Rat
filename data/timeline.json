@@ -1,0 +1,65 @@
+{
+ "lede": "Von der Geburt der Äbtissin 1467 bis zum Tod der letzten Schwester 1596. Die Stationen verweisen auf die Stellen im Apparat; wo noch kein Text abgedruckt ist, folgen sie der neueren Literatur und sagen es.",
+ "stations": [
+  {
+   "d": "21. März 1467",
+   "side": "konvent",
+   "titel": "Barbara Pirckheimer",
+   "text": "In Eichstätt wird Barbara Pirckheimer geboren, die älteste Tochter eines gelehrten Juristen; ihr Bruder Willibald kommt drei Jahre später zur Welt. Mit zwölf Jahren tritt sie ins Nürnberger Klarakloster ein und nimmt den Namen Caritas an. (Nach der neueren Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1503",
+   "side": "konvent",
+   "titel": "Die Äbtissin",
+   "text": "Der Konvent wählt Caritas zur Äbtissin. (Nach der neueren Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1513",
+   "side": "nachwelt",
+   "titel": "Die gelehrte Frau",
+   "text": "Christoph Scheurl lässt einen lateinischen Brief an Caritas drucken, zusammen mit einem Gedicht, das Konrad Celtis an sie gerichtet hatte: Die Humanisten zeigen der Welt eine gelehrte Äbtissin. (Modul geplant.)"
+  },
+  {
+   "d": "1524",
+   "side": "konvent",
+   "titel": "Die große Sündflut",
+   "text": "Für 1524 war eine große Sündflut vorhergesagt. Caritas beginnt ihre Aufzeichnungen damit, dass sie anders kam: als Streit um den Glauben, in dem Nonnen und Mönche ihre Klöster verließen und das Klarakloster bedrängt wurde. (Modul geplant.)"
+  },
+  {
+   "d": "März 1525",
+   "side": "rat",
+   "titel": "Das Religionsgespräch",
+   "text": "Nach einem Religionsgespräch im Rathaus führt der Rat die Reformation ein. Den Klöstern werden ihre Ordensseelsorger genommen. (Nach der neueren Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1525",
+   "side": "familien",
+   "titel": "Verhört man doch einen Dieb",
+   "text": "Die Mutter der Schwester Margaretha Tetzel und ihre Onkel wollen sie herausholen und weigern sich, sie anzuhören. (Modul geplant.)"
+  },
+  {
+   "d": "Juni 1525",
+   "side": "familien",
+   "titel": "Die Töchter",
+   "text": "Drei Mütter lassen ihre Töchter mit Gewalt aus dem Kloster ziehen: Katharina Ebner, Clara Nützel und Margaretha Tetzel. Auf der Straße rufen die jungen Frauen, man tue ihnen Gewalt und Unrecht. (Modul geplant.)"
+  },
+  {
+   "d": "November 1525",
+   "side": "reform",
+   "titel": "Melanchthon",
+   "text": "Um Martini kommt Philipp Melanchthon mit dem Pfleger ans Redefenster des Klosters. (Modul geplant.)"
+  },
+  {
+   "d": "19. August 1532",
+   "side": "konvent",
+   "titel": "Der Tod der Äbtissin",
+   "text": "Caritas Pirckheimer stirbt im Kloster. (Nach der neueren Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1596",
+   "side": "nachwelt",
+   "titel": "Die letzte Schwester",
+   "text": "Mit dem Tod der letzten Schwester endet das Nürnberger Klarakloster, das kein Ratsbeschluss aufgelöst hatte. (Nach der Chronik von 1628; Modul geplant.)"
+  }
+ ]
+}

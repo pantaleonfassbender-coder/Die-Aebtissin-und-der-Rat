@@ -199,6 +199,72 @@
      ]
     }
    ]
+  },
+  {
+   "id": "anhoeren",
+   "titel": "Die Schwestern allein anhören",
+   "frage": "Im Februar verlangte der Konvent, Margaretha Tetzel allein zu befragen; im März bietet die Äbtissin dem Pfleger dasselbe für den ganzen Konvent an.",
+   "note": "Beide Male geht es um denselben Verdacht: dass die Äbtissin den Willen ihrer Schwestern lenke. Beide Male schlägt der Konvent vor, die Schwestern ohne die Oberin zu hören; beide Male lehnt die Gegenseite ab. Der Pfleger sagt, er wisse schon vorher, was sie antworten würden.",
+   "voices": [
+    {
+     "text": "dieb",
+     "sec": "klage",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "prediger",
+     "sec": "pfleger",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gefangen",
+   "titel": "Gefangen",
+   "frage": "Die Mutter nannte das Kloster ein Gefängnis; die Schwestern sagen, gefangen wären sie erst, wenn man ihr Gewissen zwingt.",
+   "note": "Ursula Tetzel schreibt im Februar, ihre Tochter sei mit vierzehn ‚in dieses Gefängnis‘ gekommen. Die Bittschrift vom März antwortet, ohne die Mutter zu nennen: Die leibliche Verschließung haben wir willig gewählt; ein Gefängnis wäre es, wenn wir zur Zeit der evangelischen Freiheit auch im Gewissen gefangen sein sollten.",
+   "voices": [
+    {
+     "text": "dieb",
+     "sec": "klage",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "prediger",
+     "sec": "pfleger",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gelobt",
+   "titel": "Wem gilt das Gelübde?",
+   "frage": "Der Rat verlangt, die Äbtissin solle die Schwestern ihrer Gelübde ledig sprechen; der Konvent antwortet einzeln.",
+   "note": "Die Äbtissin: Keine Schwester hat mir etwas gelobt, sondern Gott, also kann ich nichts lösen; was sie mir schulden, gebe ich frei, dann aber auch mein Amt. Der Konvent stimmt danach, jede einzeln, für die Regel, ‚die wir Gott gelobt haben‘, und nicht für die, die der Rat gibt; die Äbtissin verspricht, bei ihnen zu bleiben ‚bis in den Tod‘. Gehorsam wird hier zum gegenseitigen Versprechen.",
+   "voices": [
+    {
+     "text": "prediger",
+     "sec": "artikel",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "prediger",
+     "sec": "artikel",
+     "n": [
+      4
+     ]
+    }
+   ]
   }
  ]
 }

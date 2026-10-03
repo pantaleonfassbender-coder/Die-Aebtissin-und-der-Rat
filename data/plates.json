@@ -85,6 +85,41 @@
    "titel": "Der große Saal des Nürnberger Rathauses, um 1730",
    "caption": "Kupferstich von Georg Balthasar Probst, ‚Le Salon de la Maison de Ville à Nuremberg‘. Auf dem Rathaus begann im März 1525 das Religionsgespräch, das nach Caritas ‚meistens gegen die Barfüßer ging‘ (Klage [6]); an den Rat gingen die Klage der Mutter und die Antwort des Konvents. In welchem Raum das Gespräch stattfand, sagt Caritas nicht.",
    "source": "Georg Balthasar Probst, Kupferstich, um 1730; via Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "hoefler_s33",
+   "side": "konvent",
+   "titel": "‚Anno domini 1525 am suntag Oculi‘",
+   "caption": "Höflers Seite 33: oben das Ende der Tetzel-Sache und der Beginn des Religionsgesprächs, darunter der Eintrag vom 19. März 1525, mit dem die Gesandten des Rates ins Kloster kommen (Oculi [1]).",
+   "source": "C. Höfler (Hg.), Denkwürdigkeiten der Charitas Pirkheimer (Bamberg 1852), S. 33; Internet Archive 11420769bsb (gemeinfrei), Ausschnitt."
+  },
+  {
+   "id": "hoefler_s51",
+   "side": "rat",
+   "titel": "‚so hetten sy die ganze landschaft‘",
+   "caption": "Höflers Seite 51: Der Pfleger sagt der Äbtissin im Chor, wenn der Rat sie allein auf seiner Seite hätte, hätte er das ganze Land (Pfleger [5]). Unten zwei Anmerkungen des Herausgebers von 1852, die zweite mit seinem Urteil über die Bauern: Kommentar des 19. Jahrhunderts, nicht der Quelle.",
+   "source": "C. Höfler (Hg.), Denkwürdigkeiten der Charitas Pirkheimer (Bamberg 1852), S. 51; Internet Archive 11420769bsb (gemeinfrei)."
+  },
+  {
+   "id": "osiander1544",
+   "side": "reform",
+   "titel": "Andreas Osiander, 1544",
+   "caption": "Bildnis des Predigers von St. Lorenz, gemalt von Georg Pencz neunzehn Jahre nach dem Streit. Osiander predigte den Schwestern nach Caritas' Bericht jeden Sonntag und Feiertag bis Michaeli 1525 (Prediger [1]); seine eigenen Worte aus diesen Predigten stehen nicht in den Denkwürdigkeiten.",
+   "source": "Georg Pencz, Bildnis Andreas Osianders, 1544 (Zuschreibung und Datierung nach Wikimedia Commons); via Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "lorenz1685",
+   "side": "reform",
+   "titel": "St. Lorenz in Nürnberg, 1685",
+   "caption": "Johann Andreas Graffs Kupferstich vom Inneren der Lorenzkirche, Osianders Pfarrkirche, mit Kanzel, Bänken und Lettner, gut 150 Jahre nach der Reformation. Hier predigte die neue Lehre der Stadt; im Klarakloster predigte Osiander den Schwestern.",
+   "source": "Johann Andreas Graff, Kupferstich, 1685; via Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "hoefler_s89",
+   "side": "rat",
+   "titel": "Die ersten Artikel vom Pfingstmittwoch 1525",
+   "caption": "Höflers Seite 89, untere Hälfte: ‚Das erst‘, alle Schwestern der Gelübde ledig zu sprechen, und ‚Das 2‘, den Eltern ihre Kinder herauszugeben, ‚wenn schon der kindt will nit wer‘ (Artikel [1]).",
+   "source": "C. Höfler (Hg.), Denkwürdigkeiten der Charitas Pirkheimer (Bamberg 1852), S. 89; Internet Archive 11420769bsb (gemeinfrei), Ausschnitt."
   }
  ]
 }

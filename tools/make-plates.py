@@ -34,6 +34,12 @@ PLATES = {
     "wappen_tetzel": ("commons", "File:Tetzel Siebmacher205 - Nürnberg.jpg", None),
     "wappen_fuerer": ("commons", "File:Fürer Siebmacher205 - Nürnberg.jpg", None),
     "rathaussaal1730": ("commons", "File:Kupferstich - Rathaussaal Nürnberg - Probst - um 1730.JPG", None),
+    # Modul 4
+    "hoefler_s33": ("ia", "https://archive.org/download/11420769bsb/page/n151_w1400.jpg", (100, 470, 1000, 960)),
+    "hoefler_s51": ("ia", "https://archive.org/download/11420769bsb/page/n169_w1400.jpg", (60, 40, 960, 960)),
+    "hoefler_s89": ("ia", "https://archive.org/download/11420769bsb/page/n207_w1400.jpg", (60, 560, 960, 935)),
+    "osiander1544": ("commons", "File:Andreas-Osiander.jpg", None),
+    "lorenz1685": ("commons", "File:Kupferstich - Nürnberg - Lorenzkirche - von innen - Graff - 1685.jpg", None),
 }
 
 

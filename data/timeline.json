@@ -95,6 +95,42 @@
    "plate": "rathaussaal1730"
   },
   {
+   "d": "19. März 1525",
+   "side": "rat",
+   "titel": "Die Väter genommen",
+   "text": "Zwei Gesandte des Rates verkünden dem Konvent: ein Prediger des Rates, ein neuer Beichtvater, keine Barfüßer mehr. Die Äbtissin protestiert vor Gott, der Konvent bezeugt es stehend. Am selben Abend gehen die Franziskaner; die Schwestern sind seither ohne Sakramente.",
+   "cite": "#/text/prediger/oculi/4",
+   "citeLabel": "Oculi [4]",
+   "plate": "hoefler_s33"
+  },
+  {
+   "d": "23. März 1525",
+   "side": "rat",
+   "titel": "Der Pfleger im Chor",
+   "text": "Kaspar Nützel predigt dem Konvent, die Bauern sammelten sich; die Äbtissin bietet an hinauszugehen, damit er die Schwestern allein höre, er lehnt ab. Im Chor sagt er ihr, wenn der Rat sie hätte, hätte er ‚die ganze Landschaft‘.",
+   "cite": "#/text/prediger/pfleger/5",
+   "citeLabel": "Pfleger [5]",
+   "plate": "hoefler_s51"
+  },
+  {
+   "d": "Karwoche 1525",
+   "side": "reform",
+   "titel": "Alle Prediger der Stadt",
+   "text": "Vom Palmsonntag bis Quasimodo müssen die Schwestern vollzählig die Predigten aller Pfarrprediger hören, unter ihnen Andreas Osiander, der ihnen danach jeden Sonntag predigt. Man wirft Steine in ihren Chor.",
+   "cite": "#/text/prediger/prediger/1",
+   "citeLabel": "Prediger [1]",
+   "plate": "osiander1544"
+  },
+  {
+   "d": "7. Juni 1525",
+   "side": "rat",
+   "titel": "Die fünf Artikel",
+   "text": "Sigmund Fürer, Sebald Pfinzing und Endres Imhof verlangen: Gelübde lösen, Töchter den Eltern herausgeben, Kutten ablegen, Gesichtsfenster einrichten, inventarisieren, in vier Wochen. Der Konvent stimmt einzeln: die Regel, die wir Gott gelobt haben.",
+   "cite": "#/text/prediger/artikel/1",
+   "citeLabel": "Artikel [1]",
+   "plate": "hoefler_s89"
+  },
+  {
    "d": "Juni 1525",
    "side": "familien",
    "titel": "Die Töchter",

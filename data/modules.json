@@ -23,16 +23,17 @@
    "kurz": "Verhört man doch einen Dieb: Margaretha Tetzel, 1525",
    "zk": "Mutter, Dieb, Klage",
    "warum": "Ursula Tetzel will ihre Tochter Margaretha aus dem Kloster holen; die Tochter will bleiben. Die Onkel Fürer weigern sich, sie auch nur anzuhören, und Margaretha sagt: ‚Man verhört doch einen Dieb, ehe man ihn henkt.‘ Die Klage der Mutter vor dem Rat, vollständig, und die Antwort des Konvents: Gewissen gegen Gewissen, und der Rat möge Margaretha selbst befragen. Der Rat antwortet nicht. Frühneuhochdeutsch nach Höfler, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und einer Übersicht, wer angehört wurde."
+  },
+  {
+   "id": "prediger",
+   "datei": "prediger",
+   "side": "reform",
+   "kurz": "Die Väter genommen, die Prediger geschickt, März bis Juni 1525",
+   "zk": "Oculi, Pfleger, Prediger, Artikel",
+   "warum": "Am 19. März 1525 nimmt der Rat dem Kloster die Franziskaner und schickt eigene Prediger; die Schwestern sind seither ohne Sakramente. Der Pfleger Kaspar Nützel predigt dem Konvent, die Bauern kämen; die Äbtissin bietet an hinauszugehen, damit er die Schwestern allein höre, und er will nicht. In der Karwoche müssen alle Schwestern alle Prediger der Stadt hören; man wirft Steine in ihren Chor. Am Pfingstmittwoch bringt der Rat fünf Artikel: Gelübde lösen, Töchter herausgeben, Kutten ablegen. Auswahl aus Höfler S. 33–96, am Seitenbild gelesen, mit Übersetzung, fünf Tafeln und einer Übersicht der Forderungen."
   }
  ],
  "planned": [
-  {
-   "id": "prediger",
-   "side": "reform",
-   "kurz": "Die Väter genommen, die Prediger geschickt, 1525",
-   "warum": "Der Rat nimmt dem Kloster die Franziskaner und schickt evangelische Prediger, unter ihnen Andreas Osiander. Was die Schwestern in ihrer Kirche hören mussten, wie die Stadt über sie redete, und was der Rat ihnen über Habit, Gitter und Gelübde abverlangte.",
-   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 31–97 (Auswahl)."
-  },
   {
    "id": "toechter",
    "side": "familien",

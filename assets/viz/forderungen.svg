@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 590" role="img" aria-labelledby="fo-t fo-d" font-family="var(--serif)">
+<title id="fo-t">Was der Rat 1525 verlangte und was der Konvent antwortete</title>
+<desc id="fo-d">Acht Forderungen vom 19. März und 7. Juni 1525 mit der Antwort des Konvents: nachgegeben, verweigert, eigener Weg, aufgeschoben oder vom Rat durchgesetzt.</desc>
+<text x="16" y="30" font-size="17" font-weight="bold" fill="var(--ink)">Forderungen und Antworten, März bis Juni 1525</text>
+<text x="16" y="50" font-size="13" fill="var(--ink2)">Jede Zeile führt zur Stelle. Farbe: was aus der Forderung wurde.</text>
+<rect x="16" y="64" width="14" height="14" rx="3" fill="var(--familien)"/><text x="36" y="76" font-size="13" fill="var(--ink2)">nachgegeben</text>
+<rect x="133" y="64" width="14" height="14" rx="3" fill="var(--reform)"/><text x="153" y="76" font-size="13" fill="var(--ink2)">eigener Weg</text>
+<rect x="250" y="64" width="14" height="14" rx="3" fill="var(--konvent)"/><text x="270" y="76" font-size="13" fill="var(--ink2)">verweigert</text>
+<rect x="360" y="64" width="14" height="14" rx="3" fill="var(--nachwelt)"/><text x="380" y="76" font-size="13" fill="var(--ink2)">aufgeschoben</text>
+<rect x="484" y="64" width="14" height="14" rx="3" fill="var(--rat)"/><text x="504" y="76" font-size="13" fill="var(--ink2)">vom Rat durchgesetzt</text>
+<text x="16" y="96" font-size="12" fill="var(--ink2)">DATUM</text><text x="100" y="96" font-size="12" fill="var(--ink2)">FORDERUNG DES RATES</text><text x="470" y="96" font-size="12" fill="var(--ink2)">ANTWORT DES KONVENTS</text>
+<a href="#/text/prediger/oculi/2"><g>
+<rect x="8" y="104" width="884" height="46" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="8" y="104" width="6" height="46" rx="3" fill="var(--familien)"/>
+<text x="22" y="132" font-size="13" fill="var(--ink2)">19. März</text>
+<text x="100" y="132" font-size="14" font-weight="bold" fill="var(--ink)">ein Prediger des Rates</text>
+<text x="470" y="124" font-size="13.5" fill="var(--ink)" text-decoration="underline">angenommen: die Schwestern hören die Predigten</text>
+</g></a>
+<a href="#/text/prediger/prediger/2"><g>
+<rect x="8" y="156" width="884" height="46" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="8" y="156" width="6" height="46" rx="3" fill="var(--reform)"/>
+<text x="22" y="184" font-size="13" fill="var(--ink2)">19. März</text>
+<text x="100" y="184" font-size="14" font-weight="bold" fill="var(--ink)">ein Beichtvater aus drei Kandidaten des Rates</text>
+<text x="470" y="176" font-size="13.5" fill="var(--ink)" text-decoration="underline">abgelehnt; gewählt: Konrad Schrötter, Terziar, mit</text>
+<text x="470" y="193" font-size="13.5" fill="var(--ink)" text-decoration="underline">Erlaubnis des Guardians</text>
+</g></a>
+<a href="#/text/prediger/oculi/4"><g>
+<rect x="8" y="208" width="884" height="46" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="8" y="208" width="6" height="46" rx="3" fill="var(--rat)"/>
+<text x="22" y="236" font-size="13" fill="var(--ink2)">19. März</text>
+<text x="100" y="236" font-size="14" font-weight="bold" fill="var(--ink)">keine Barfüßer mehr</text>
+<text x="470" y="228" font-size="13.5" fill="var(--ink)" text-decoration="underline">Protest vor Gott; am selben Abend vollzogen</text>
+</g></a>
+<a href="#/text/prediger/artikel/2"><g>
+<rect x="8" y="260" width="884" height="46" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="8" y="260" width="6" height="46" rx="3" fill="var(--konvent)"/>
+<text x="22" y="288" font-size="13" fill="var(--ink2)">7. Juni</text>
+<text x="100" y="288" font-size="14" font-weight="bold" fill="var(--ink)">1  alle Gelübde lösen</text>
+<text x="470" y="280" font-size="13.5" fill="var(--ink)" text-decoration="underline">abgelehnt: ‚keine hat mir etwas gelobt, sondern Gott‘</text>
+</g></a>
+<a href="#/text/prediger/artikel/1"><g>
+<rect x="8" y="312" width="884" height="46" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="8" y="312" width="6" height="46" rx="3" fill="var(--rat)"/>
+<text x="22" y="340" font-size="13" fill="var(--ink2)">7. Juni</text>
+<text x="100" y="340" font-size="14" font-weight="bold" fill="var(--ink)">2  Töchter den Eltern herausgeben</text>
+<text x="470" y="332" font-size="13.5" fill="var(--ink)" text-decoration="underline">auch gegen ihren Willen; im Juni mit Gewalt vollzogen</text>
+</g></a>
+<a href="#/text/prediger/artikel/3"><g>
+<rect x="8" y="364" width="884" height="46" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="8" y="364" width="6" height="46" rx="3" fill="var(--nachwelt)"/>
+<text x="22" y="392" font-size="13" fill="var(--ink2)">7. Juni</text>
+<text x="100" y="392" font-size="14" font-weight="bold" fill="var(--ink)">3  die Kutten ablegen</text>
+<text x="470" y="384" font-size="13.5" fill="var(--ink)" text-decoration="underline">aufgeschoben auf Rat von Freunden im Rat</text>
+</g></a>
+<a href="#/text/prediger/artikel/4"><g>
+<rect x="8" y="416" width="884" height="46" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="8" y="416" width="6" height="46" rx="3" fill="var(--familien)"/>
+<text x="22" y="444" font-size="13" fill="var(--ink2)">7. Juni</text>
+<text x="100" y="444" font-size="14" font-weight="bold" fill="var(--ink)">4  Gesichtsfenster, Gespräche ohne Zuhörerin</text>
+<text x="470" y="436" font-size="13.5" fill="var(--ink)" text-decoration="underline">ein einziges Gesichtsfenster; allein reden wollen die</text>
+<text x="470" y="453" font-size="13.5" fill="var(--ink)" text-decoration="underline">Schwestern nicht</text>
+</g></a>
+<a href="#/text/prediger/artikel/1"><g>
+<rect x="8" y="468" width="884" height="46" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="8" y="468" width="6" height="46" rx="3" fill="var(--line)"/>
+<text x="22" y="496" font-size="13" fill="var(--ink2)">7. Juni</text>
+<text x="100" y="496" font-size="14" font-weight="bold" fill="var(--ink)">5  das Gut inventarisieren</text>
+<text x="470" y="488" font-size="13.5" fill="var(--ink2)" text-decoration="underline">in diesem Modul nicht berichtet</text>
+</g></a>
+<text x="16" y="560" font-size="12.5" fill="var(--ink2)">Die Forderungen 1–5 vom Pfingstmittwoch sollten in vier Wochen ‚zu Werk gezogen‘ werden.</text>
+<text x="16" y="578" font-size="12.5" fill="var(--ink2)">Wie Artikel 2 im Juni vollzogen wurde, erzählt das nächste Modul, ‚Da stee ich‘.</text>
+</svg>

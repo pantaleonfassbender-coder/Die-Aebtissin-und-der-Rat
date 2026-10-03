@@ -24,6 +24,11 @@ PLATES = {
     "celtis1507": ("commons", "File:Hans Burgkmair I, Conrad Celtis, 1507, NGA 39803.jpg", None),
     "pirckheimer1524": ("commons", "File:Albrecht Dürer, Willibald Pirckheimer, 1524, NGA 132982.jpg", None),
     "opera_ode": ("ia", "https://archive.org/download/bub_gb_XFSzOVms1AoC/page/n383_w1400.jpg", (20, 20, 1000, 930)),
+    # Modul 2
+    "hoefler_s3": ("ia", "https://archive.org/download/11420769bsb/page/n121_w1400.jpg", (60, 290, 900, 935)),
+    "nuernberg1493": ("commons", "File:Nuremberg chronicles - Nuremberga.png", None),
+    "klara1680": ("commons", "File:Kupferstich - Nürnberg - Königstraße - St Clara - A Graff - 1680.jpg", None),
+    "klara_innen1725": ("commons", "File:J. A. Delsenbach St. Klara Nuernberg 1725.jpg", None),
 }
 
 

@@ -52,6 +52,79 @@
      ]
     }
    ]
+  },
+  {
+   "id": "henker",
+   "titel": "Privat und amtlich",
+   "frage": "Derselbe Gedanke im Brief an den Schwager und in der Bittschrift an den ganzen Rat.",
+   "note": "An Martin Geuder schreibt Caritas, lieber solle man einen Henker ins Kloster schicken als ‚volle, betrunkene, unkeusche Pfaffen‘; und selbst diesen Brief hat sie beim Durchsehen gemildert (‚beschwerlich‘ statt ‚zu schimpflich‘). Die Bittschrift sagt dasselbe als Grundsatz: Jeder Geist will frei sein, auch eine Herrschaft muss keine Diener nehmen, die ihr nicht passen. Der Vergleich mit Dienstboten und Herrschaften steht in beiden.",
+   "voices": [
+    {
+     "text": "sindflut",
+     "sec": "briefe",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "sindflut",
+     "sec": "supplik",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evangelium",
+   "titel": "Die Bibel hinter der Klausur",
+   "frage": "Der Vorwurf lautete, den Nonnen werde das Evangelium vorenthalten. Was sagen die Schwestern, und was sagte ihr Bruder schon Jahre vorher?",
+   "note": "Caritas an Geuder: Wir lesen das Alte und das Neue Testament Tag und Nacht, im Chor und bei Tisch, lateinisch und deutsch. Die Bittschrift wiederholt es vor dem ganzen Rat. Willibald Pirckheimer hatte Erasmus geschrieben, seine Schwestern läsen das Neue Testament, ‚gelehrter als viele Männer‘; den Satz kennt der Apparat nur aus Münchs Zitat.",
+   "voices": [
+    {
+     "text": "sindflut",
+     "sec": "briefe",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "sindflut",
+     "sec": "supplik",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "gelehrte",
+     "sec": "bruder",
+     "n": [
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": "freiheit",
+   "titel": "Zweierlei Freiheit",
+   "frage": "Die Prediger verkünden die christliche Freiheit; die Schwestern antworten mit der Freiheit des Geistes.",
+   "note": "In Caritas' Bericht heißt christliche Freiheit, dass Gelübde nichts gelten und jeder tun darf, was er will. Die Bittschrift setzt dagegen: ‚mit dem Geist, nicht mit dem Leib frei‘, und erklärt im selben Atemzug, niemanden zu drängen, keine Schwester gegen ihren Willen zu halten. Beide Seiten nehmen das Wort Freiheit für sich in Anspruch.",
+   "voices": [
+    {
+     "text": "sindflut",
+     "sec": "anfang",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "sindflut",
+     "sec": "supplik",
+     "n": [
+      5
+     ]
+    }
+   ]
   }
  ]
 }

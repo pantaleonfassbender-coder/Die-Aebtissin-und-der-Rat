@@ -1,6 +1,6 @@
 {
  "lede": "Bildnisse, Ansichten und Drucke aus gemeinfreien Vorlagen; jede Tafel nennt ihre Quelle und verweist auf die Stelle, zu der sie gehört.",
- "credit": "Tafeln: Rijksmuseum Amsterdam (CC0) und National Gallery of Art, Washington (gemeinfrei, Open Access), über Wikimedia Commons; Seitenbild aus Pirckheimers Opera (1665) nach dem Scan der Biblioteca Nazionale Centrale di Roma bei Google Books und im Internet Archive (gemeinfrei). Die Bilder sind verkleinert, sonst unverändert.",
+ "credit": "Tafeln: Rijksmuseum Amsterdam (CC0), National Gallery of Art, Washington (gemeinfrei, Open Access), Germanisches Nationalmuseum Nürnberg und Schedelsche Weltchronik (gemeinfrei), über Wikimedia Commons; Seitenbilder aus Pirckheimers Opera (1665, Biblioteca Nazionale Centrale di Roma) und Höflers Ausgabe (1852, Bayerische Staatsbibliothek) im Internet Archive (gemeinfrei). Die Bilder sind verkleinert oder beschnitten, sonst unverändert.",
  "plates": [
   {
    "id": "roswitha1501",
@@ -29,6 +29,34 @@
    "titel": "Celtis' Ode im Druck",
    "caption": "Seite 343 von Pirckheimers Werken: oben der Schluss von Caritas' Brief an Celtis mit dem Datum 25. April 1502 (Celtis [7]), darunter ‚Ad Charitatem de familia Pirckheimerorum‘, die Ode des Celtis (Celtis [3]). Nach dieser Seite ist der lateinische Text des Moduls gelesen.",
    "source": "Bilibaldi Pirckheimeri Opera (Frankfurt 1665), S. 343; Internet Archive bub_gb_XFSzOVms1AoC (gemeinfrei), Ausschnitt."
+  },
+  {
+   "id": "hoefler_s3",
+   "side": "konvent",
+   "titel": "‚Zu wissen das etwan lange Zeit pronosticirt ist worden‘",
+   "caption": "Die erste Textseite der Denkwürdigkeiten in Höflers Ausgabe von 1852: die vorhergesagte Sintflut des Jahres 1524, die als Glaubensspaltung kam (Anfang [1]). Darunter Höflers Anmerkung mit Willibald Pirckheimers Satz über seine astrologischen Voraussagen. Nach diesen Seiten ist der Text des Moduls gelesen.",
+   "source": "C. Höfler (Hg.), Denkwürdigkeiten der Charitas Pirkheimer (Bamberg 1852), S. 3; Internet Archive 11420769bsb (gemeinfrei), Ausschnitt."
+  },
+  {
+   "id": "nuernberg1493",
+   "side": "rat",
+   "titel": "Nürnberg, 1493",
+   "caption": "Die Reichsstadt im Holzschnitt der Schedelschen Weltchronik, dreißig Jahre vor dem Streit: oben die Burg, darunter die Kirchtürme und die Dächer der Bürgerhäuser innerhalb der Mauer. Das Klarakloster ist auf dem Holzschnitt nicht bezeichnet. Der Rat dieser Stadt beschloss 1524 und 1525 über die Seelsorge der Klöster.",
+   "source": "Hartmann Schedel, Liber chronicarum (Nürnberg 1493), Holzschnitt aus der Werkstatt Michael Wolgemuts und Wilhelm Pleydenwurffs; via Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "klara1680",
+   "side": "konvent",
+   "titel": "St. Klara an der Königstraße, 1680",
+   "caption": "Kupferstich von Johann Andreas Graff, gestochen von Johann Ulrich Kraus: die Klosterkirche St. Klara in Nürnberg, links vorn, mit dem Blick die Straße hinab. Hundertfünfzig Jahre nach Caritas; das Kloster war seit 1596 ohne Schwestern (Modul geplant).",
+   "source": "J. A. Graff / J. U. Kraus, Kupferstich, 1680; Germanisches Nationalmuseum Nürnberg, SP 6591, via Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "klara_innen1725",
+   "side": "konvent",
+   "titel": "‚Die St. Clara Capellen in Nürnberg‘, um 1725",
+   "caption": "Johann Adam Delsenbachs Kupferstich eines Innenraums von St. Klara, mit der Inschrift ‚Die St. Clara Capellen in Nürnberg, wie solche anfänglich erbauet gewesen Anno 1445‘. Was Delsenbach mit ‚anfänglich erbauet‘ meint und welchen Teil der Kirche das Blatt zeigt, sagt es nicht; die Bildlegende von Wikimedia Commons nennt es eine Innenansicht der Klarakirche.",
+   "source": "Johann Adam Delsenbach, Kupferstich, um 1725; via Wikimedia Commons (gemeinfrei)."
   }
  ]
 }

@@ -7,16 +7,17 @@
    "kurz": "Die gelehrte Äbtissin, 1502–1515",
    "zk": "Celtis, Bruder, Scheurl, Münch",
    "warum": "Wer war die Frau, mit der der Rat 1525 stritt? Ihre lateinischen Briefe an Konrad Celtis und an ihren Bruder Willibald, Celtis' Ode an sie, Christoph Scheurls Lob von 1506 und das Vorwort des Druckers, der ihre Briefe 1515 ungefragt veröffentlichte, ‚damit das Büchlein sich besser verkauft‘; dazu zwei Sätze Willibalds: Die Franziskaner hätten ihr das Latein verboten. Alles am Seitenbild gelesen, Latein mit Übersetzung, und wie Ernst Münch 1826 sie las. Mit Tafeln und einem Briefnetz."
+  },
+  {
+   "id": "sindflut",
+   "datei": "sindflut",
+   "side": "konvent",
+   "kurz": "Die große Sündflut: der Anfang, 1524",
+   "zk": "Anfang, Briefe, Bittschrift",
+   "warum": "Wie Caritas ihre Aufzeichnungen beginnt: Die für 1524 vorhergesagte Sintflut kam als Glaubensspaltung. Der Rat will dem Kloster die Franziskaner als Beichtväter nehmen; der Konvent beschließt einstimmig eine Bittschrift, und Caritas schreibt drei Ratsherren, dem Schwager am schärfsten: ‚lieber einen Henker‘. Die Bittschrift vom Advent 1524 in sechs Auszügen, die Antwort des Rates: ‚in Ruhe stellen bis auf weiteren Bescheid‘. Frühneuhochdeutsch nach Höfler, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und dem Weg der Bittschrift als Grafik."
   }
  ],
  "planned": [
-  {
-   "id": "sindflut",
-   "side": "konvent",
-   "kurz": "Die große Sündflut: der Anfang, 1524",
-   "warum": "Wie Caritas ihren Bericht beginnt: Für 1524 war eine große Sündflut vorhergesagt, und sie kam als Streit um den Glauben. Die erste Bittschrift des Konvents an den Rat, um die Franziskaner als Beichtväter zu behalten, und die Briefe an den Pfleger Kaspar Nützel.",
-   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 3–18."
-  },
   {
    "id": "dieb",
    "side": "familien",

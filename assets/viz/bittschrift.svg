@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="bs-t bs-d" font-family="var(--serif)">
+<title id="bs-t">Der Weg der Bittschrift, Advent 1524</title>
+<desc id="bs-d">Vom Gerücht über den Beschluss des Rates zur Beratung im Konvent, zu drei Briefen an Ratsherren, zur Bittschrift und zur Antwort des Rates; daneben die drei Angaben, wie lange die Franziskaner das Kloster schon betreuten.</desc>
+<defs><marker id="bs-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--ink2)"/></marker></defs>
+<text x="16" y="30" font-size="17" font-weight="bold" fill="var(--ink)">Der Weg der Bittschrift, Advent 1524</text>
+<text x="16" y="50" font-size="13" fill="var(--ink2)">Jedes Feld führt zur Stelle im Text.</text>
+<a href="#/text/sindflut/anfang/2"><g><rect x="16" y="70" width="260" height="66" rx="8" fill="var(--panel)" stroke="var(--familien)" stroke-width="1.5"/><text x="146.0" y="91" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--familien)">Die Verwandten</text><text x="146.0" y="110" text-anchor="middle" font-size="12.5" fill="var(--ink)">predigen am Sprechfenster:</text><text x="146.0" y="126" text-anchor="middle" font-size="12.5" fill="var(--ink)">‚wir wären alle des Teufels‘</text></g></a>
+<a href="#/text/sindflut/anfang/3"><g><rect x="296" y="70" width="260" height="66" rx="8" fill="var(--panel)" stroke="var(--rat)" stroke-width="1.5"/><text x="426.0" y="91" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--rat)">Das Gerücht</text><text x="426.0" y="110" text-anchor="middle" font-size="12.5" fill="var(--ink)">der Rat habe beschlossen,</text><text x="426.0" y="126" text-anchor="middle" font-size="12.5" fill="var(--ink)">die Väter zu nehmen</text></g></a>
+<line x1="146" y1="136" x2="230" y2="170" stroke="var(--ink2)" stroke-width="1.4" marker-end="url(#bs-a)"/>
+<line x1="426" y1="136" x2="340" y2="170" stroke="var(--ink2)" stroke-width="1.4" marker-end="url(#bs-a)"/>
+<a href="#/text/sindflut/anfang/3"><g><rect x="126" y="172" width="320" height="66" rx="8" fill="var(--panel)" stroke="var(--konvent)" stroke-width="2.2"/><text x="286.0" y="193" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--konvent)">Der Konvent berät</text><text x="286.0" y="212" text-anchor="middle" font-size="12.5" fill="var(--ink)">alle stimmen für eine Bittschrift,</text><text x="286.0" y="228" text-anchor="middle" font-size="12.5" fill="var(--ink)">‚keine ausgenommen‘</text></g></a>
+<line x1="286" y1="238" x2="286" y2="262" stroke="var(--ink2)" stroke-width="1.4" marker-end="url(#bs-a)"/>
+<a href="#/text/sindflut/anfang/3"><g><rect x="126" y="264" width="320" height="50" rx="8" fill="var(--panel)" stroke="var(--konvent)" stroke-width="1.5"/><text x="286.0" y="285" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--konvent)">Die Äbtissin entwirft und liest vor</text></g></a>
+<line x1="286" y1="314" x2="101" y2="350" stroke="var(--ink2)" stroke-width="1.4" marker-end="url(#bs-a)"/>
+<a href="#/text/sindflut/briefe/1"><g><rect x="16" y="352" width="170" height="70" rx="8" fill="var(--panel)" stroke="var(--konvent)" stroke-width="1.5"/><text x="101.0" y="373" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--konvent)">an Nützel</text><text x="101.0" y="392" text-anchor="middle" font-size="12.5" fill="var(--ink)">den kranken Pfleger</text><text x="101.0" y="408" text-anchor="middle" font-size="12.5" fill="var(--ink)">‚die Kinder sind unser beider‘</text></g></a>
+<line x1="101" y1="422" x2="286" y2="470" stroke="var(--ink2)" stroke-width="1.4" stroke-dasharray="6 4" marker-end="url(#bs-a)"/>
+<line x1="286" y1="314" x2="286" y2="350" stroke="var(--ink2)" stroke-width="1.4" marker-end="url(#bs-a)"/>
+<a href="#/text/sindflut/briefe/2"><g><rect x="201" y="352" width="170" height="70" rx="8" fill="var(--panel)" stroke="var(--konvent)" stroke-width="1.5"/><text x="286.0" y="373" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--konvent)">an Ebner</text><text x="286.0" y="392" text-anchor="middle" font-size="12.5" fill="var(--ink)">Tochter Katharina</text><text x="286.0" y="408" text-anchor="middle" font-size="12.5" fill="var(--ink)">schreibt den Brief</text></g></a>
+<line x1="286" y1="422" x2="286" y2="470" stroke="var(--ink2)" stroke-width="1.4" stroke-dasharray="6 4" marker-end="url(#bs-a)"/>
+<line x1="286" y1="314" x2="471" y2="350" stroke="var(--ink2)" stroke-width="1.4" marker-end="url(#bs-a)"/>
+<a href="#/text/sindflut/briefe/3"><g><rect x="386" y="352" width="170" height="70" rx="8" fill="var(--panel)" stroke="var(--konvent)" stroke-width="1.5"/><text x="471.0" y="373" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--konvent)">an Geuder</text><text x="471.0" y="392" text-anchor="middle" font-size="12.5" fill="var(--ink)">den Schwager:</text><text x="471.0" y="408" text-anchor="middle" font-size="12.5" fill="var(--ink)">‚lieber einen Henker‘</text></g></a>
+<line x1="471" y1="422" x2="286" y2="470" stroke="var(--ink2)" stroke-width="1.4" stroke-dasharray="6 4" marker-end="url(#bs-a)"/>
+<a href="#/text/sindflut/supplik/1"><g><rect x="126" y="472" width="320" height="66" rx="8" fill="var(--panel)" stroke="var(--konvent)" stroke-width="2.2"/><text x="286.0" y="493" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--konvent)">Die Bittschrift an den Rat</text><text x="286.0" y="512" text-anchor="middle" font-size="12.5" fill="var(--ink)">‚die vnverhört vnser‘:</text><text x="286.0" y="528" text-anchor="middle" font-size="12.5" fill="var(--ink)">ohne uns gehört zu haben</text></g></a>
+<line x1="286" y1="538" x2="286" y2="562" stroke="var(--ink2)" stroke-width="1.4" marker-end="url(#bs-a)"/>
+<a href="#/text/sindflut/supplik/7"><g><rect x="126" y="564" width="320" height="66" rx="8" fill="var(--panel)" stroke="var(--rat)" stroke-width="2.2"/><text x="286.0" y="585" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--rat)">Die Antwort des Rates</text><text x="286.0" y="604" text-anchor="middle" font-size="12.5" fill="var(--ink)">‚in rw stellen‘: die Sache ruhen lassen</text><text x="286.0" y="620" text-anchor="middle" font-size="12.5" fill="var(--ink)">‚piß auf weyttern bescheid‘</text></g></a>
+<text x="286" y="660" text-anchor="middle" font-size="12.5" fill="var(--ink2)">gestrichelt: Die Briefe sollen der Bittschrift ‚Fortgang‘ verschaffen.</text>
+<text x="600" y="80" font-size="15" font-weight="bold" fill="var(--ink)">Wie alt ist die Ordnung?</text>
+<text x="600" y="98" font-size="12.5" fill="var(--ink2)">Seit wann die Barfüßer das Kloster</text>
+<text x="600" y="114" font-size="12.5" fill="var(--ink2)">betreuen, in Jahren bis 1524:</text>
+<a href="#/text/sindflut/briefe/2"><text x="600" y="144" font-size="13" fill="var(--ink)" text-decoration="underline">an Ebner: seit 1295</text></a>
+<rect x="600" y="152" width="133" height="20" rx="3" fill="var(--konvent)" opacity="0.8"/>
+<text x="739" y="167" font-size="13" fill="var(--ink2)">229</text>
+<a href="#/text/sindflut/briefe/1"><text x="600" y="206" font-size="13" fill="var(--ink)" text-decoration="underline">an Nützel: ‚bei 300‘</text></a>
+<rect x="600" y="214" width="174" height="20" rx="3" fill="var(--konvent)" opacity="0.8"/>
+<text x="780" y="229" font-size="13" fill="var(--ink2)">300</text>
+<a href="#/text/sindflut/supplik/2"><text x="600" y="268" font-size="13" fill="var(--ink)" text-decoration="underline">Bittschrift: ‚in 300‘</text></a>
+<rect x="600" y="276" width="174" height="20" rx="3" fill="var(--konvent)" opacity="0.8"/>
+<text x="780" y="291" font-size="13" fill="var(--ink2)">300</text>
+<a href="#/text/sindflut/briefe/3"><text x="600" y="330" font-size="13" fill="var(--ink)" text-decoration="underline">an Geuder: ‚weit über 400‘</text></a>
+<rect x="600" y="338" width="232" height="20" rx="3" fill="var(--konvent)" opacity="0.55"/>
+<path d="M832,338 l14,10 l-14,10 z" fill="var(--konvent)" opacity="0.55"/>
+<text x="852" y="353" font-size="13" fill="var(--ink2)">400+</text>
+<text x="600" y="396" font-size="12.5" fill="var(--ink2)">Gegen jeden Empfänger eine andere Zahl:</text>
+<text x="600" y="413" font-size="12.5" fill="var(--ink2)">Caritas kam es auf das Alter der Ordnung</text>
+<text x="600" y="430" font-size="12.5" fill="var(--ink2)">an, nicht auf das Jahr. Die Zahl 1295</text>
+<text x="600" y="447" font-size="12.5" fill="var(--ink2)">nennt sie dem Ebner, weil ein Ebner</text>
+<text x="600" y="464" font-size="12.5" fill="var(--ink2)">sie begründet haben soll.</text>
+</svg>

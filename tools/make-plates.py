@@ -50,6 +50,11 @@ PLATES = {
     "link_portrait": ("commons", "File:Wenzeslaus-Linck.jpg", None),
     "hoefler_s171": ("ia", "https://archive.org/download/11420769bsb/page/n289_w1400.jpg", (60, 300, 960, 960)),
     "hoefler_s133": ("ia", "https://archive.org/download/11420769bsb/page/n251_w1400.jpg", (60, 280, 960, 800)),
+    # Modul 7
+    "hoefler_s184": ("ia", "https://archive.org/download/11420769bsb/page/n302_w1400.jpg", (60, 160, 960, 960)),
+    "hoefler_s189": ("ia", "https://archive.org/download/11420769bsb/page/n307_w1400.jpg", (60, 160, 960, 960)),
+    "redwitz": ("commons", "File:Weigand von Redwitz.jpg", None),
+    "landsknecht_breu": ("commons", "File:Jörg Breu Landsknecht.jpg", None),
 }
 
 

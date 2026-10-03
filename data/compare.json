@@ -361,6 +361,57 @@
      ]
     }
    ]
+  },
+  {
+   "id": "allein",
+   "titel": "Allein befragt",
+   "frage": "Dreimal will die Gegenseite die Schwestern ohne die Äbtissin hören: 1525 der Pfleger, 1525 die Mütter, 1527 die Visitatoren.",
+   "note": "Im März 1525 bot die Äbtissin dem Pfleger an, die Schwestern allein zu befragen, und er lehnte ab. Im Juni 1525 lehnten die Mütter das Gespräch allein am Fenster ab, weil sie Zuhörer fürchteten. Im November 1527 bestehen die Visitatoren auf der Einzelbefragung, und die Schwestern wollen nur mit einer Gefährtin kommen. Das Argument der Visitatoren, ‚eine Schwester scheut sich vor der anderen‘, wird durch Anna Schwarz bestätigt.",
+   "voices": [
+    {
+     "text": "prediger",
+     "sec": "pfleger",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "toechter",
+     "sec": "vorher",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "ordnung",
+     "sec": "visitation",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spiegel",
+   "titel": "Der Kammerwagen, zweimal",
+   "frage": "Juni 1525 und Februar 1528: zwei Mütter, zwei Kammerwagen, zwei Töchter.",
+   "note": "1525 wollten drei Töchter bleiben, und ihre Mütter holten sie mit Gewalt. 1528 will Anna Schwarz gehen, und ihre Mutter rät ihr zu bleiben; Anna verlangt, man solle sie ‚hinausziehen wie die drei Schwestern‘, und die Mutter sagt: Geh selbst heraus. Caritas hat beide Szenen aufgeschrieben; wie die Töchter selbst sie erzählt hätten, wissen wir nicht.",
+   "voices": [
+    {
+     "text": "toechter",
+     "sec": "fronleichnam",
+     "n": [
+      6
+     ]
+    },
+    {
+     "text": "ordnung",
+     "sec": "anna",
+     "n": [
+      3
+     ]
+    }
+   ]
   }
  ]
 }

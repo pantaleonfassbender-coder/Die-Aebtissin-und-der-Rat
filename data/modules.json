@@ -47,16 +47,17 @@
    "kurz": "Melanchthon im Beichthaus, Herbst 1525",
    "zk": "Linck, Melanchthon",
    "warum": "Im Herbst 1525 schickt der Pfleger der Äbtissin die Artikel des Predigers Wenzeslaus Linck; sie antwortet, jeder brauche die Schrift für sich und keiner wolle dem anderen weichen. Um Martini kommt Philipp Melanchthon ins Beichthaus: Über die Gnade sind sie einig, nur über die Gelübde nicht. Danach sagt er dem Rat, das Herausholen der Töchter sei Sünde gewesen, und rät dem Pfleger, zu bleiben. Auswahl aus Höfler S. 127–176, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und einer Übersicht der Streitpunkte."
+  },
+  {
+   "id": "ordnung",
+   "datei": "ordnung",
+   "side": "rat",
+   "kurz": "Visitiert und verlassen, 1526–1528",
+   "zk": "Visitation, Anna, Bamberg",
+   "warum": "Die letzten Seiten der Denkwürdigkeiten. An Allerseelen 1527 kommen Ratsherren und ein Jurist, um die Schwestern einzeln über ihr Gewissen zu befragen; die Äbtissin: ‚Ihr seid heftige Beichtväter.‘ 39 lassen sich befragen, 13 nicht. Eine, Anna Schwarz, geht im Februar 1528 aus eigenem Willen; ihre Begründung musste sie aus der Quittung streichen. Im August 1528 lädt der Bischof von Bamberg vor, und die Aufzeichnungen enden. Höfler S. 176–191, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und den 52 Schwestern als Grafik."
   }
  ],
  "planned": [
-  {
-   "id": "ordnung",
-   "side": "rat",
-   "kurz": "Ohne Novizinnen: der Rat und das Kloster, 1526–1528",
-   "warum": "Was der Rat am Ende beschloss: kein Zwang mehr gegen die Schwestern, aber keine Novizinnen, keine Ordensoberen, kein Gelübde. Die letzten Briefe der Denkwürdigkeiten und wie Caritas die Lage beschrieb, in der ihr Kloster weiterleben, aber nicht mehr wachsen durfte.",
-   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 153–190 (Auswahl)."
-  },
   {
    "id": "willibald",
    "side": "nachwelt",

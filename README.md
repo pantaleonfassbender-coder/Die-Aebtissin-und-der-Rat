@@ -1,5 +1,7 @@
 # Die Äbtissin und der Rat. Caritas Pirckheimer und das Nürnberger Klarakloster 1524–1528
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23121995.svg)](https://doi.org/10.5281/zenodo.23121995)
+
 Ein Quellenapparat zum Streit um das Nürnberger Klarakloster in der Reformation: die Denkwürdigkeiten der Äbtissin Caritas Pirckheimer (1466/67–1532), ihre Bittschriften und Briefe, die Stimmen des Rats, der Familien und der Reformatoren, vom Beginn 1524 bis zum Ende der Aufzeichnungen 1528, mit einem Ausblick bis zum Tod der letzten Bewohnerin des Klosters 1596. Gemeinfreie Quellen, das frühneuhochdeutsche oder lateinische Original neben einer neuhochdeutschen Arbeitsübersetzung, eine Zeitleiste mit Verweisen in die Texte und eine Liste dessen, was geprüft und nicht aufgenommen wurde.
 
 Live: https://die-aebtissin-und-der-rat.netlify.app/
@@ -47,4 +49,4 @@ Code MIT; Editionen und Arbeitsübersetzungen CC0; redaktionelle Texte CC BY 4.0
 
 ## Zitieren
 
-Fassbender, Pantaleon. *Die Äbtissin und der Rat. Caritas Pirckheimer und das Nürnberger Klarakloster 1524–1528. Ein Quellenapparat.* 2026. Version 1.0.0. Bitte zitieren Sie für jede wörtlich übernommene Stelle auch die gedruckte Quelle. Metadaten: `CITATION.cff`, `.zenodo.json`.
+Fassbender, Pantaleon. *Die Äbtissin und der Rat. Caritas Pirckheimer und das Nürnberger Klarakloster 1524–1528. Ein Quellenapparat.* 2026. https://doi.org/10.5281/zenodo.23121995 (alle Versionen; Version 1.0.0: https://doi.org/10.5281/zenodo.23121996). Bitte zitieren Sie für jede wörtlich übernommene Stelle auch die gedruckte Quelle. Metadaten: `CITATION.cff`, `.zenodo.json`.

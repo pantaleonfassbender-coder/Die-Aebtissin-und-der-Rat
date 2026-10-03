@@ -71,16 +71,16 @@
    "kurz": "Bis 1596: das Ende des Klosters",
    "zk": "Käterlein, Koppius",
    "warum": "1539 lässt sich ein Mädchen durch die Drehlade ins Kloster schmuggeln; der Konvent will sie als Magd behalten, weil die Hände fehlen, der Rat lässt sie an die Kette legen. 1628 sammelt ein Bamberger Beichtvater, was vom Nürnberger Klarakloster bekannt ist: 55 Äbtissinnen, eine alte Magd, die drei letzte Klarissen und sechs vertriebene Augustinerinnen kannte, ein Franziskaner, der heimlich in weltlichen Kleidern kam. Die letzte Klarisse starb 1591, die letzte Bewohnerin 1596. Höfler S. 192–207, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und dreihundert Jahren als Grafik."
-  }
- ],
- "planned": [
+  },
   {
    "id": "vergleich",
+   "datei": "vergleich",
    "side": "reform",
-   "kurz": "Luther und die Nonnen",
-   "warum": "Was die Reformatoren über das Klosterleben von Frauen lehrten, und was davon in Nürnberg ankam: Luthers Schrift ‚Ursach und Antwort, dass Jungfrauen Klöster göttlich verlassen mögen‘ (1523) neben Caritas’ Antwort, die Schwestern hinauszutreiben ‚wer nit evangelisch‘.",
-   "quelle": "M. Luther, Ursach und Antwort, dass Jungfrauen Klöster göttlich verlassen mögen (1523), in einer gemeinfreien Ausgabe (zu prüfen)."
+   "kurz": "Luther und die Nonnen, 1523 und 1526",
+   "zk": "Ursach, Herzog Georg",
+   "warum": "Ostern 1523 fliehen neun Nonnen aus Nimbschen nach Wittenberg, unter ihnen Katharina von Bora, und Luther rechtfertigt es öffentlich: Die Frauen hätten ihre Eltern vergeblich gebeten, Gott wolle keinen erzwungenen Dienst, und doch: Wer gern im Kloster ist, ‚die laß man bleiben im Namen Gottes‘. 1526 hält Herzog Georg von Sachsen dagegen: Wen man nicht herauspredigen kann, den kaufe man mit Geld heraus oder lege ‚so viel Gewalt und Unrecht an sie, dass sie heraus müssen‘. Beide Texte neben dem, was in Nürnberg geschah; eine Verbindung zwischen Luther und dem Klarakloster behauptet das Modul nicht. Frühneuhochdeutsch, am Seitenbild gelesen, mit Übersetzung, fünf Tafeln und einem Feld der Willen."
   }
  ],
+ "planned": [],
  "missing": []
 }

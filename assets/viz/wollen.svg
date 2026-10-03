@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="wo-t wo-d" font-family="var(--serif)">
+<title id="wo-t">Wer will hinaus, wer darf bleiben</title>
+<desc id="wo-d">Vier Felder: waagerecht, ob die Frau bleiben oder hinaus will; senkrecht, ob Familie, Rat oder Fürst sie lassen oder zwingen. Oben links Luthers Satz ‚die laß man bleiben‘ und Melanchthon; oben rechts die Zusage des Konvents von 1524 und Anna Schwarz 1528; unten links die drei Töchter 1525, Herzog Georgs Vorwurf 1526 und das Glaser-Käterlein 1539; unten rechts die Nonnen von Nimbschen 1523.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Wer will hinaus, wer darf bleiben</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Luthers Regel und die Zusage des Konvents stehen beide in der oberen Reihe; gestritten wurde in der unteren.</text>
+<text x="16" y="66" font-size="13" fill="var(--ink2)">Gestrichelt: Behauptung oder Vorwurf, nicht ein einzelner Fall.</text>
+<rect x="134" y="144" width="362" height="242" rx="12" fill="var(--red)" opacity="0.05"/>
+<rect x="504" y="144" width="362" height="242" rx="12" fill="var(--red)" opacity="0.05"/>
+<rect x="134" y="394" width="362" height="282" rx="12" fill="var(--red)" opacity="0.10"/>
+<rect x="504" y="394" width="362" height="282" rx="12" fill="var(--red)" opacity="0.10"/>
+<text x="315.0" y="106" text-anchor="middle" font-size="12.5" fill="var(--ink2)">Die Frau will …</text>
+<text x="315.0" y="126" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--ink)">bleiben</text>
+<text x="685.0" y="106" text-anchor="middle" font-size="12.5" fill="var(--ink2)">Die Frau will …</text>
+<text x="685.0" y="126" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--ink)">hinaus</text>
+<text transform="translate(52 265.0) rotate(-90)" text-anchor="middle" font-size="12.5" fill="var(--ink2)">die anderen</text>
+<text transform="translate(74 265.0) rotate(-90)" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--ink)">lassen sie</text>
+<text transform="translate(52 535.0) rotate(-90)" text-anchor="middle" font-size="12.5" fill="var(--ink2)">die anderen</text>
+<text transform="translate(74 535.0) rotate(-90)" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--ink)">zwingen sie</text>
+<line x1="500" y1="140" x2="500" y2="680" stroke="var(--line)" stroke-width="1.5"/>
+<line x1="130" y1="390" x2="870" y2="390" stroke="var(--line)" stroke-width="1.5"/>
+<text x="315.0" y="170" text-anchor="middle" font-size="14" font-style="italic" fill="var(--ink2)">Bleiben dürfen</text>
+<a href="#/text/vergleich/ursach/8"><g><rect x="150.0" y="186" width="330" height="58" rx="8" fill="var(--panel)" stroke="var(--reform)" stroke-width="1.6"/><text x="315.0" y="209" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--reform)">1523</text><text x="315.0" y="230" text-anchor="middle" font-size="13" fill="var(--ink)" text-decoration="underline">Luther: ‚die laß man bleiben‘</text></g></a>
+<a href="#/text/melanchthon/besuch/3"><g><rect x="150.0" y="256" width="330" height="58" rx="8" fill="var(--panel)" stroke="var(--reform)" stroke-width="1.6"/><text x="315.0" y="279" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--reform)">1525</text><text x="315.0" y="300" text-anchor="middle" font-size="13" fill="var(--ink)" text-decoration="underline">Melanchthon: ‚ebenso wohl im Kloster selig‘</text></g></a>
+<text x="685.0" y="170" text-anchor="middle" font-size="14" font-style="italic" fill="var(--ink2)">Gehen dürfen</text>
+<a href="#/text/sindflut/supplik/5"><g><rect x="520.0" y="186" width="330" height="58" rx="8" fill="var(--panel)" stroke="var(--konvent)" stroke-width="1.6"/><text x="685.0" y="209" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--konvent)">1524</text><text x="685.0" y="230" text-anchor="middle" font-size="13" fill="var(--ink)" text-decoration="underline">Konvent: keine ‚mit Gewalt‘ halten</text></g></a>
+<a href="#/text/ordnung/anna/3"><g><rect x="520.0" y="256" width="330" height="58" rx="8" fill="var(--panel)" stroke="var(--familien)" stroke-width="1.6"/><text x="685.0" y="279" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--familien)">1528</text><text x="685.0" y="300" text-anchor="middle" font-size="13" fill="var(--ink)" text-decoration="underline">Anna Schwarz: ‚geh selbst heraus‘</text></g></a>
+<text x="315.0" y="420" text-anchor="middle" font-size="14" font-style="italic" fill="var(--ink2)">Herausgeholt</text>
+<a href="#/text/toechter/fronleichnam/4"><g><rect x="150.0" y="436" width="330" height="58" rx="8" fill="var(--panel)" stroke="var(--familien)" stroke-width="1.6"/><text x="315.0" y="459" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--familien)">1525</text><text x="315.0" y="480" text-anchor="middle" font-size="13" fill="var(--ink)" text-decoration="underline">Drei Töchter: ‚Mutter meines Fleisches‘</text></g></a>
+<a href="#/text/vergleich/georg/2"><g><rect x="150.0" y="506" width="330" height="58" rx="8" fill="var(--panel)" stroke="var(--rat)" stroke-width="1.6" stroke-dasharray="6 4"/><text x="315.0" y="529" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--rat)">1526</text><text x="315.0" y="550" text-anchor="middle" font-size="13" fill="var(--ink)" text-decoration="underline">Herzog Georg: ‚Gewalt und Unrecht‘</text></g></a>
+<a href="#/text/ende/kaeterlein/4"><g><rect x="150.0" y="576" width="330" height="58" rx="8" fill="var(--panel)" stroke="var(--konvent)" stroke-width="1.6"/><text x="315.0" y="599" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--konvent)">1539</text><text x="315.0" y="620" text-anchor="middle" font-size="13" fill="var(--ink)" text-decoration="underline">Käterlein: will hinein, der Rat holt sie</text></g></a>
+<text x="685.0" y="420" text-anchor="middle" font-size="14" font-style="italic" fill="var(--ink2)">Festgehalten</text>
+<a href="#/text/vergleich/ursach/4"><g><rect x="520.0" y="436" width="330" height="58" rx="8" fill="var(--panel)" stroke="var(--reform)" stroke-width="1.6"/><text x="685.0" y="459" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--reform)">1523</text><text x="685.0" y="480" text-anchor="middle" font-size="13" fill="var(--ink)" text-decoration="underline">Nimbschen: die Eltern sagen nein</text></g></a>
+<a href="#/text/vergleich/ursach/5"><g><rect x="520.0" y="506" width="330" height="58" rx="8" fill="var(--panel)" stroke="var(--reform)" stroke-width="1.6" stroke-dasharray="6 4"/><text x="685.0" y="529" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--reform)">1523</text><text x="685.0" y="550" text-anchor="middle" font-size="13" fill="var(--ink)" text-decoration="underline">Luther: ‚O der unbarmherzigen Eltern‘</text></g></a>
+</svg>

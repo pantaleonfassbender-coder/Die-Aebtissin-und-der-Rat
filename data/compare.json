@@ -515,6 +515,139 @@
      ]
     }
    ]
+  },
+  {
+   "id": "bleiben",
+   "titel": "‚Die laß man bleiben‘",
+   "frage": "Luther 1523 und der Nürnberger Konvent 1524: Beide Seiten gestehen der anderen etwas zu.",
+   "note": "Luther schließt seinen Brief mit dem Satz, wer ‚gern drinnen‘ sei, den lasse man im Kloster bleiben. Der Konvent schreibt Ende 1524 an den Rat, er wolle keine Schwester ‚mit Gewalt oder ihren Eltern vorenthalten‘; wer nicht gern bei ihnen sei, sei ihnen ‚unwert‘. Auf dem Papier waren sich beide Seiten in diesem Punkt einig: Niemand solle gegen seinen Willen im Kloster gehalten oder aus ihm geholt werden. In Nürnberg hielt sich der Rat ein halbes Jahr später an den zweiten Teil nicht.",
+   "voices": [
+    {
+     "text": "vergleich",
+     "sec": "ursach",
+     "n": [
+      8
+     ]
+    },
+    {
+     "text": "sindflut",
+     "sec": "supplik",
+     "n": [
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eltern",
+   "titel": "Die Eltern, umgekehrt",
+   "frage": "Nimbschen 1523 und Nürnberg 1525: Töchter gegen Eltern, mit den Rollen vertauscht.",
+   "note": "In Nimbschen, so Luther, baten die Töchter ihre Eltern ‚aufs allerdemütigste‘, herauszukommen, und wurden abgewiesen; Luther klagt die ‚unbarmherzigen Eltern‘ an. In Nürnberg holten die Mütter ihre Töchter gegen deren Willen heraus, und Katharina Ebner sagte zu ihrer Mutter, sie sei ‚eine Mutter meines Fleisches und nicht meines Geistes‘. Beide Male beruft sich die Tochter auf ihr Gewissen gegen die Eltern, und beide Male gibt die Seite, die siegt, der Tochter recht, die ihr gefällt.",
+   "voices": [
+    {
+     "text": "vergleich",
+     "sec": "ursach",
+     "n": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "toechter",
+     "sec": "fronleichnam",
+     "n": [
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ungezwungen",
+   "titel": "Kein erzwungener Dienst",
+   "frage": "Dasselbe Argument, in zwei Richtungen gewendet.",
+   "note": "Luther: Gott will keinen erzwungenen, unwilligen Dienst, darum solle man den unwilligen Nonnen heraushelfen. Der Nürnberger Konvent 1524: ‚Jeder Geist will frei und ungezwungen sein‘, darum solle man den Schwestern keine Prediger aufzwingen, die sie nicht wollen. Melanchthon, im Beichthaus, war es ‚sehr zuwider, dass man die Leute mit Gewalt nötigt‘. Das Argument gegen den Zwang war allen gemeinsam; der Streit ging darum, wer gezwungen wurde.",
+   "voices": [
+    {
+     "text": "vergleich",
+     "sec": "ursach",
+     "n": [
+      6
+     ]
+    },
+    {
+     "text": "sindflut",
+     "sec": "supplik",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "melanchthon",
+     "sec": "besuch",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gotteswort",
+   "titel": "Wo Gottes Wort geht",
+   "frage": "Luthers Behauptung über die Nonnenklöster, die Bittschrift von 1524 und Anna Schwarz 1528.",
+   "note": "Luther behauptet, in den Nonnenklöstern gehe Gottes Wort ‚nicht täglich und an den meisten Orten nie‘. Der Konvent schreibt dem Rat, die Schwestern hätten Altes und Neues Testament deutsch und lateinisch ‚im täglichen Gebrauch‘. Anna Schwarz aber sagt 1528 ihrer Mutter, ‚man halte das Evangelium bei uns nicht‘, und will das in ihre Quittung schreiben; der Konvent lässt es nicht zu. Dass in Nürnberg die Bibel gelesen wurde, bestritt niemand; gestritten wurde darüber, was als Evangelium galt.",
+   "voices": [
+    {
+     "text": "vergleich",
+     "sec": "ursach",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "sindflut",
+     "sec": "supplik",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "ordnung",
+     "sec": "anna",
+     "n": [
+      3,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gueter",
+   "titel": "Geld und Güter",
+   "frage": "Herzog Georgs Vorwurf von 1526 neben zwei Nürnberger Geldfragen.",
+   "note": "Georg behauptet, wen man nicht herauspredigen könne, kaufe man heraus, und die Herren nähmen dann die Güter. In Nürnberg boten die Väter der drei Töchter 1525 an, Kostgeld für die Klosterjahre zu zahlen; Caritas verlangte stattdessen den ‚Kirchenraub‘ zurück, die drei Kinder. Und als Anna Schwarz 1528 ging, ließ der Bürgermeister dem Kloster befehlen, ihr die hundert Gulden ihres Vaters zurückzugeben. Georg schreibt als Partei und nicht über Nürnberg; die Nürnberger Quellen zeigen kein Herauskaufen, aber dass mit jedem Austritt auch über Geld gestritten wurde.",
+   "voices": [
+    {
+     "text": "vergleich",
+     "sec": "georg",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "toechter",
+     "sec": "danach",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "ordnung",
+     "sec": "anna",
+     "n": [
+      4
+     ]
+    }
+   ]
   }
  ]
 }

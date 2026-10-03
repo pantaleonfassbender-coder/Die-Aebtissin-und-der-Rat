@@ -61,6 +61,15 @@
    "plate": "opera_ode"
   },
   {
+   "d": "4.–10. April 1523",
+   "side": "reform",
+   "titel": "Neun Nonnen aus Nimbschen",
+   "text": "Am Samstag vor Ostern holt der Torgauer Bürger Leonhard Koppe zwölf Zisterzienserinnen aus Nimbschen; neun kommen nach Wittenberg, unter ihnen Katharina von Bora. Am 10. April rechtfertigt Luther die Flucht in einem offenen Brief: Wer unwillig im Kloster ist, dem helfe man heraus; wer gern darin ist, ‚die laß man bleiben‘.",
+   "cite": "#/text/vergleich/ursach/8",
+   "citeLabel": "Ursach [8]",
+   "plate": "wa_s400"
+  },
+  {
    "d": "1524",
    "side": "konvent",
    "titel": "Die große Sündflut",
@@ -158,6 +167,15 @@
    "cite": "#/text/melanchthon/besuch/3",
    "citeLabel": "Melanchthon [3]",
    "plate": "melanchthon1526"
+  },
+  {
+   "d": "1526",
+   "side": "rat",
+   "titel": "Herzog Georgs Instruktion",
+   "text": "Herzog Georg von Sachsen gibt seinem Gesandten zum Reichstag eine Klage mit: Ordensleute würden aus den Klöstern gepredigt, mit Geld herausgekauft oder mit ‚Gewalt und Unrecht‘ herausgebracht, und die Herren nähmen die Güter. Höfler druckte sie 1852 in seiner Einleitung zu Caritas' Denkwürdigkeiten.",
+   "cite": "#/text/vergleich/georg/2",
+   "citeLabel": "Herzog Georg [2]",
+   "plate": "hoefler_lxv"
   },
   {
    "d": "2. November 1527",

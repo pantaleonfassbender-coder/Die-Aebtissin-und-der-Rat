@@ -65,6 +65,12 @@ PLATES = {
     "exlibris_pirckheimer": ("commons", "File:Dürer, Albrecht Exlibris Wilibald Pirkheimer.jpg", None),
     "opera_s374": ("ia", "https://archive.org/download/bub_gb_XFSzOVms1AoC/page/n414_w1400.jpg", (20, 650, 1000, 960)),
     "opera_s384": ("ia", "https://archive.org/download/bub_gb_XFSzOVms1AoC/page/n424_w1400.jpg", (20, 20, 1000, 520)),
+    # Modul Luther und die Nonnen
+    "bora1526": ("commons", "File:Lucas Cranach der Ältere - Porträt von Katharina von Bora (unter Beteiligung der Werkstatt), 1526, B 94.jpg", (320, 50, 985, 895)),
+    "georg_cranach": ("commons", "File:Lucas Cranach d.Ä. - Bildnis Georgs des Bärtigen, Herzog von Sachsen (Museum der bildenden Künste).jpg", None),
+    "wa_s394": ("ia", "https://archive.org/download/werkekritischege11luthuoft/page/n451_w1400.jpg", (60, 40, 960, 520)),
+    "wa_s400": ("ia", "https://archive.org/download/werkekritischege11luthuoft/page/n457_w1400.jpg", (60, 380, 960, 655)),
+    "hoefler_lxv": ("ia", "https://archive.org/download/11420769bsb/page/n71_w1400.jpg", (60, 60, 960, 535)),
 }
 
 

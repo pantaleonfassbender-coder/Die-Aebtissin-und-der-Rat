@@ -317,6 +317,50 @@
      ]
     }
    ]
+  },
+  {
+   "id": "einig",
+   "titel": "Gnade, nicht Werke",
+   "frage": "Was die Bittschrift im Advent 1524 über Glauben und Werke sagte, und was Melanchthon im November 1525 hörte.",
+   "note": "Schon die Bittschrift des Konvents erklärte, kein Mensch werde durch Werke allein gerechtfertigt, sondern durch den Glauben; Werke seien die Frucht, nicht der Grund. Als Melanchthon das im Beichthaus hörte, sagte er nach Caritas, man könne ebenso gut im Kloster selig werden wie in der Welt, wenn man nur nichts auf die Gelübde halte. Der Streit war ein Jahr lang über eine Frage geführt worden, in der beide Seiten, wenigstens in diesem Gespräch, gar nicht uneins waren.",
+   "voices": [
+    {
+     "text": "sindflut",
+     "sec": "supplik",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "melanchthon",
+     "sec": "besuch",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pfleger_wandel",
+   "titel": "Der Pfleger im März und im November",
+   "frage": "Kaspar Nützel im Chor am 23. März 1525 und in seinem Brief nach Melanchthons Besuch.",
+   "note": "Im März hielt die Äbtissin dem Pfleger vor, er nehme sich eine Gewalt über die Seelen an, die ihm nicht zustehe. Im November schreibt Nützel selbst, er habe ‚weiter gegriffen, als mein Befehl und Amt sein mag‘, und will das Kloster nicht mehr mit Predigern beschweren. Was ihn umstimmte, sagt er: auch Melanchthons Rat.",
+   "voices": [
+    {
+     "text": "prediger",
+     "sec": "pfleger",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "melanchthon",
+     "sec": "besuch",
+     "n": [
+      5
+     ]
+    }
+   ]
   }
  ]
 }

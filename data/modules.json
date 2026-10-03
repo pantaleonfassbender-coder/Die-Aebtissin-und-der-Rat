@@ -39,16 +39,17 @@
    "kurz": "Da stee ich: die Töchter, Juni 1525",
    "zk": "Vorher, Fronleichnam, Danach",
    "warum": "Am Vorabend von Fronleichnam 1525 holen drei Mütter ihre Töchter, Margaretha Tetzel, Katharina Ebner und Clara Nützel, auf Befehl des Rates aus dem Kloster, gegen deren erklärten Willen. Die drei Tage vorher, die Übergabe in der Kapelle vor zwei Ratsherren, Katharinas ‚Da stehe ich und will nicht weichen‘, was danach geschah, und wie der Stadtchronist den Tag erzählte: die Töchter seien ‚des Klosterlebens überdrüssig‘ geworden. Höfler S. 97–111, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und einer Übersicht der drei Töchter."
+  },
+  {
+   "id": "melanchthon",
+   "datei": "melanchthon",
+   "side": "reform",
+   "kurz": "Melanchthon im Beichthaus, Herbst 1525",
+   "zk": "Linck, Melanchthon",
+   "warum": "Im Herbst 1525 schickt der Pfleger der Äbtissin die Artikel des Predigers Wenzeslaus Linck; sie antwortet, jeder brauche die Schrift für sich und keiner wolle dem anderen weichen. Um Martini kommt Philipp Melanchthon ins Beichthaus: Über die Gnade sind sie einig, nur über die Gelübde nicht. Danach sagt er dem Rat, das Herausholen der Töchter sei Sünde gewesen, und rät dem Pfleger, zu bleiben. Auswahl aus Höfler S. 127–176, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und einer Übersicht der Streitpunkte."
   }
  ],
  "planned": [
-  {
-   "id": "melanchthon",
-   "side": "reform",
-   "kurz": "Melanchthon am Redefenster, Martini 1525",
-   "warum": "Der Pfleger bringt Philipp Melanchthon ins Kloster. Was der Wittenberger der Äbtissin sagte, was sie ihm antwortete und was er danach dem Rat riet. Dazu Melanchthons eigene Briefe aus diesen Wochen, wenn sie die Begegnung berühren.",
-   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 128–152; Corpus Reformatorum I (1834), Briefe 1525 (zu prüfen)."
-  },
   {
    "id": "ordnung",
    "side": "rat",

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 516" role="img" aria-labelledby="sp-t sp-d" font-family="var(--serif)">
+<title id="sp-t">Worin die Äbtissin und Melanchthon übereinstimmten</title>
+<desc id="sp-d">Sechs Streitfragen von 1525 mit den Positionen der Äbtissin, Melanchthons nach Caritas’ Bericht und der Seite des Rates. Nur in der Frage der Gelübde waren Äbtissin und Melanchthon uneins.</desc>
+<text x="16" y="30" font-size="17" font-weight="bold" fill="var(--ink)">Worin sie übereinstimmten, und worin nicht</text>
+<text x="16" y="50" font-size="13" fill="var(--ink2)">Melanchthons Positionen nach Caritas’ Bericht; seine eigenen Worte sind hier nicht überliefert.</text>
+<text x="16" y="98" font-size="12" font-weight="bold" fill="var(--ink2)">FRAGE</text>
+<text x="258" y="98" font-size="12" font-weight="bold" fill="var(--konvent)">DIE ÄBTISSIN</text>
+<text x="478" y="98" font-size="12" font-weight="bold" fill="var(--reform)">MELANCHTHON</text>
+<text x="698" y="98" font-size="12" font-weight="bold" fill="var(--rat)">RAT, PFLEGER, PREDIGER</text>
+<rect x="8" y="112" width="884" height="52" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="250" y="112" width="434" height="52" rx="6" fill="var(--familien)" opacity="0.10"/>
+<text x="22" y="132" font-size="13.5" font-weight="bold" fill="var(--ink)">Gnade oder Werke?</text>
+<a href="#/text/melanchthon/besuch/3">
+<text x="258" y="132" font-size="13" fill="var(--ink)" text-decoration="underline">Grund allein in Gottes Gnade</text>
+</a>
+<a href="#/text/melanchthon/besuch/3">
+<text x="478" y="132" font-size="13" fill="var(--ink)" text-decoration="underline">einig</text>
+</a>
+<a href="#/text/sindflut/supplik/4">
+<text x="698" y="132" font-size="13" fill="var(--ink)" text-decoration="underline">Vorwurf: sie bauten auf</text>
+<text x="698" y="148" font-size="13" fill="var(--ink)" text-decoration="underline">Werke</text>
+</a>
+<rect x="8" y="170" width="884" height="52" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="250" y="170" width="434" height="52" rx="6" fill="var(--familien)" opacity="0.10"/>
+<text x="22" y="190" font-size="13.5" font-weight="bold" fill="var(--ink)">Kann man im Kloster selig</text>
+<text x="22" y="206" font-size="13.5" font-weight="bold" fill="var(--ink)">werden?</text>
+<a href="#/text/melanchthon/besuch/3">
+<text x="258" y="190" font-size="13" fill="var(--ink)" text-decoration="underline">ja</text>
+</a>
+<a href="#/text/melanchthon/besuch/3">
+<text x="478" y="190" font-size="13" fill="var(--ink)" text-decoration="underline">ja, wenn man nichts auf die</text>
+<text x="478" y="206" font-size="13" fill="var(--ink)" text-decoration="underline">Gelübde hält</text>
+</a>
+<a href="#/text/sindflut/anfang/2">
+<text x="698" y="190" font-size="13" fill="var(--ink)" text-decoration="underline">nein, es sei ‚des Teufels‘</text>
+</a>
+<rect x="8" y="228" width="884" height="52" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="250" y="228" width="434" height="52" rx="6" fill="none" stroke="var(--rat)" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="22" y="248" font-size="13.5" font-weight="bold" fill="var(--ink)">Binden die Gelübde?</text>
+<a href="#/text/melanchthon/besuch/3">
+<text x="258" y="248" font-size="13" fill="var(--ink)" text-decoration="underline">ja, sie gelten Gott</text>
+</a>
+<a href="#/text/melanchthon/besuch/3">
+<text x="478" y="248" font-size="13" fill="var(--ink)" text-decoration="underline">nein</text>
+</a>
+<a href="#/text/prediger/artikel/2">
+<text x="698" y="248" font-size="13" fill="var(--ink)" text-decoration="underline">nein, sie gelten nichts</text>
+</a>
+<rect x="8" y="286" width="884" height="52" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="250" y="286" width="434" height="52" rx="6" fill="var(--familien)" opacity="0.10"/>
+<text x="22" y="306" font-size="13.5" font-weight="bold" fill="var(--ink)">Töchter gegen ihren Willen</text>
+<text x="22" y="322" font-size="13.5" font-weight="bold" fill="var(--ink)">herausholen?</text>
+<a href="#/text/melanchthon/besuch/4">
+<text x="258" y="306" font-size="13" fill="var(--ink)" text-decoration="underline">nein</text>
+</a>
+<a href="#/text/melanchthon/besuch/4">
+<text x="478" y="306" font-size="13" fill="var(--ink)" text-decoration="underline">nein, große Sünde (nach</text>
+<text x="478" y="322" font-size="13" fill="var(--ink)" text-decoration="underline">Hörensagen)</text>
+</a>
+<a href="#/text/prediger/artikel/1">
+<text x="698" y="306" font-size="13" fill="var(--ink)" text-decoration="underline">ja, Gehorsam gegen die</text>
+<text x="698" y="322" font-size="13" fill="var(--ink)" text-decoration="underline">Eltern</text>
+</a>
+<rect x="8" y="344" width="884" height="52" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="250" y="344" width="434" height="52" rx="6" fill="var(--familien)" opacity="0.10"/>
+<text x="22" y="364" font-size="13.5" font-weight="bold" fill="var(--ink)">Klöster zerstören?</text>
+<a href="#/text/melanchthon/besuch/4">
+<text x="258" y="364" font-size="13" fill="var(--ink)" text-decoration="underline">nein</text>
+</a>
+<a href="#/text/melanchthon/besuch/4">
+<text x="478" y="364" font-size="13" fill="var(--ink)" text-decoration="underline">nein, in ihrem Wesen lassen</text>
+<text x="478" y="380" font-size="13" fill="var(--ink)" text-decoration="underline">(nach Hörensagen)</text>
+</a>
+<a href="#/text/melanchthon/besuch/4">
+<text x="698" y="364" font-size="13" fill="var(--ink)" text-decoration="underline">erwogen: Alte zusammenlegen,</text>
+<text x="698" y="380" font-size="13" fill="var(--ink)" text-decoration="underline">Junge hinaus</text>
+</a>
+<rect x="8" y="402" width="884" height="52" rx="6" fill="var(--panel)" stroke="var(--line)"/>
+<rect x="250" y="402" width="434" height="52" rx="6" fill="var(--familien)" opacity="0.10"/>
+<text x="22" y="422" font-size="13.5" font-weight="bold" fill="var(--ink)">Soll der Pfleger bleiben?</text>
+<a href="#/text/melanchthon/besuch/6">
+<text x="258" y="422" font-size="13" fill="var(--ink)" text-decoration="underline">ja, ‚unsertwegen keine</text>
+<text x="258" y="438" font-size="13" fill="var(--ink)" text-decoration="underline">Kündigung‘</text>
+</a>
+<a href="#/text/melanchthon/besuch/6">
+<text x="478" y="422" font-size="13" fill="var(--ink)" text-decoration="underline">ja, er rät es Nützel</text>
+</a>
+<a href="#/text/melanchthon/besuch/5">
+<text x="698" y="422" font-size="13" fill="var(--ink)" text-decoration="underline">Nützel drohte zu kündigen</text>
+</a>
+<rect x="16" y="482" width="14" height="14" fill="var(--familien)" opacity="0.25"/><text x="36" y="494" font-size="12.5" fill="var(--ink2)">Äbtissin und Melanchthon einig</text>
+<rect x="280" y="482" width="14" height="14" fill="none" stroke="var(--rat)" stroke-width="2" stroke-dasharray="4 2"/><text x="300" y="494" font-size="12.5" fill="var(--ink2)">uneins: ‚nur der Gelübde halb kunten wir nit eins werden‘</text>
+</svg>

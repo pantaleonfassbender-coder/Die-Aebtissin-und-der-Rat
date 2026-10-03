@@ -45,6 +45,11 @@ PLATES = {
     "hoefler_s106": ("ia", "https://archive.org/download/11420769bsb/page/n224_w1400.jpg", (60, 330, 1000, 700)),
     "hoefler_s107": ("ia", "https://archive.org/download/11420769bsb/page/n225_w1400.jpg", (60, 650, 960, 960)),
     "obstmarkt1725": ("commons", "File:Kupferstich - Nürnberg - Der Obstmarckt zu Nürnberg - Delsenbach - 1725.jpg", None),
+    # Modul 6
+    "melanchthon1526": ("commons", "File:Albrecht Dürer, Philip Melanchthon, 1526, NGA 6670.jpg", None),
+    "link_portrait": ("commons", "File:Wenzeslaus-Linck.jpg", None),
+    "hoefler_s171": ("ia", "https://archive.org/download/11420769bsb/page/n289_w1400.jpg", (60, 300, 960, 960)),
+    "hoefler_s133": ("ia", "https://archive.org/download/11420769bsb/page/n251_w1400.jpg", (60, 280, 960, 800)),
 }
 
 

@@ -77,16 +77,22 @@
    "plate": "klara1680"
   },
   {
-   "d": "März 1525",
-   "side": "rat",
-   "titel": "Das Religionsgespräch",
-   "text": "Nach einem Religionsgespräch im Rathaus führt der Rat die Reformation ein. Den Klöstern werden ihre Ordensseelsorger genommen. (Nach der neueren Literatur; Modul geplant.)"
-  },
-  {
-   "d": "1525",
+   "d": "3. Februar 1525",
    "side": "familien",
    "titel": "Verhört man doch einen Dieb",
-   "text": "Die Mutter der Schwester Margaretha Tetzel und ihre Onkel wollen sie herausholen und weigern sich, sie anzuhören. (Modul geplant.)"
+   "text": "Ursula Tetzel verlangt ihre Tochter Margaretha aus dem Kloster zurück. Die Tochter will bleiben; ihre Onkel Fürer wollen sie nicht einmal anhören. Margaretha: ‚Man verhört doch einen Dieb, ehe man ihn henkt.‘ Mutter und Konvent schreiben an den Rat; der Rat antwortet dem Kloster nicht.",
+   "cite": "#/text/dieb/dieb/2",
+   "citeLabel": "Dieb [2]",
+   "plate": "hoefler_s24"
+  },
+  {
+   "d": "3. März 1525",
+   "side": "rat",
+   "titel": "Das Religionsgespräch",
+   "text": "Auf dem Rathaus beginnt das Religionsgespräch zwischen den evangelischen Predigern und den Ordensleuten, nach Caritas ‚meistens gegen die Barfüßer‘: Man habe einen Grund gesucht, sie dem Kloster mit Fug abzunehmen. Das genaue Datum nach der neueren Literatur.",
+   "cite": "#/text/dieb/klage/6",
+   "citeLabel": "Klage [6]",
+   "plate": "rathaussaal1730"
   },
   {
    "d": "Juni 1525",

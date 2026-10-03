@@ -29,6 +29,11 @@ PLATES = {
     "nuernberg1493": ("commons", "File:Nuremberg chronicles - Nuremberga.png", None),
     "klara1680": ("commons", "File:Kupferstich - Nürnberg - Königstraße - St Clara - A Graff - 1680.jpg", None),
     "klara_innen1725": ("commons", "File:J. A. Delsenbach St. Klara Nuernberg 1725.jpg", None),
+    # Modul 3
+    "hoefler_s24": ("ia", "https://archive.org/download/11420769bsb/page/n142_w1400.jpg", (100, 60, 1000, 600)),
+    "wappen_tetzel": ("commons", "File:Tetzel Siebmacher205 - Nürnberg.jpg", None),
+    "wappen_fuerer": ("commons", "File:Fürer Siebmacher205 - Nürnberg.jpg", None),
+    "rathaussaal1730": ("commons", "File:Kupferstich - Rathaussaal Nürnberg - Probst - um 1730.JPG", None),
 }
 
 

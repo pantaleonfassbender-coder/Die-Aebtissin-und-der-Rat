@@ -125,6 +125,80 @@
      ]
     }
    ]
+  },
+  {
+   "id": "gewissen",
+   "titel": "Gewissen gegen Gewissen",
+   "frage": "Die Mutter und der Konvent berufen sich beide auf ihr Gewissen und auf das Seelenheil der Tochter.",
+   "note": "Ursula Tetzel schreibt, ihr Gewissen habe sie gedrängt; sie habe die Tochter einst als ‚lebendiges Opfer‘ gegeben und halte den Klosterstand nun für ‚Gott unbekannt‘. Der Konvent antwortet, er habe ebenso viel Last im Gewissen, eine Schwester gegen ihren Willen hinauszutreiben, und die Tochter sei der Mutter nicht schuldig, gegen ihr eigenes Gewissen zu folgen. Keine Seite bestreitet der anderen das Gewissen; strittig ist, wessen Gewissen über Margaretha entscheidet.",
+   "voices": [
+    {
+     "text": "dieb",
+     "sec": "klage",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "dieb",
+     "sec": "klage",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unverhoert",
+   "titel": "Ungehört",
+   "frage": "Dreimal derselbe Grundsatz: im Advent für das Kloster, im Februar für eine Schwester, in der Antwort an den Rat für beide.",
+   "note": "Die Bittschrift vom Advent 1524 beklagt, der Rat entscheide ‚ohne uns gehört zu haben‘. Margaretha sagt es im Februar 1525 schärfer: Man hört doch einen Dieb an, ehe man ihn henkt. Die Antwort des Konvents bringt es in die Form eines Rechtsgrundsatzes: ‚da ja niemand ungehört verurteilt oder beschwert werden soll‘. Der Pfleger selbst bestätigt, dass der Rat ohne Anhörung der Parteien nicht entscheide.",
+   "voices": [
+    {
+     "text": "sindflut",
+     "sec": "supplik",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "dieb",
+     "sec": "dieb",
+     "n": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "dieb",
+     "sec": "klage",
+     "n": [
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hinaus",
+   "titel": "Frei zu gehen",
+   "frage": "Was die Schwestern im Advent versprachen und was sie im Februar anboten.",
+   "note": "Im Advent 1524 erklärte der Konvent, keine Schwester mit Gewalt oder gegen ihre Eltern zu halten. Im Februar 1525 hält er sich daran, mit einer Grenze: Wer hinaus will, darf gehen, aber wer einmal draußen war, kommt nicht wieder herein, damit ‚das Hinaus- und Hineinlaufen‘ kein Ende nimmt. Das Angebot der Mutter, die Tochter nach dem Unterricht frei wählen zu lassen, scheitert an dieser Grenze.",
+   "voices": [
+    {
+     "text": "sindflut",
+     "sec": "supplik",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "dieb",
+     "sec": "klage",
+     "n": [
+      5
+     ]
+    }
+   ]
   }
  ]
 }

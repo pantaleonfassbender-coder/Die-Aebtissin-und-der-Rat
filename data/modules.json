@@ -15,16 +15,17 @@
    "kurz": "Die große Sündflut: der Anfang, 1524",
    "zk": "Anfang, Briefe, Bittschrift",
    "warum": "Wie Caritas ihre Aufzeichnungen beginnt: Die für 1524 vorhergesagte Sintflut kam als Glaubensspaltung. Der Rat will dem Kloster die Franziskaner als Beichtväter nehmen; der Konvent beschließt einstimmig eine Bittschrift, und Caritas schreibt drei Ratsherren, dem Schwager am schärfsten: ‚lieber einen Henker‘. Die Bittschrift vom Advent 1524 in sechs Auszügen, die Antwort des Rates: ‚in Ruhe stellen bis auf weiteren Bescheid‘. Frühneuhochdeutsch nach Höfler, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und dem Weg der Bittschrift als Grafik."
+  },
+  {
+   "id": "dieb",
+   "datei": "dieb",
+   "side": "familien",
+   "kurz": "Verhört man doch einen Dieb: Margaretha Tetzel, 1525",
+   "zk": "Mutter, Dieb, Klage",
+   "warum": "Ursula Tetzel will ihre Tochter Margaretha aus dem Kloster holen; die Tochter will bleiben. Die Onkel Fürer weigern sich, sie auch nur anzuhören, und Margaretha sagt: ‚Man verhört doch einen Dieb, ehe man ihn henkt.‘ Die Klage der Mutter vor dem Rat, vollständig, und die Antwort des Konvents: Gewissen gegen Gewissen, und der Rat möge Margaretha selbst befragen. Der Rat antwortet nicht. Frühneuhochdeutsch nach Höfler, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und einer Übersicht, wer angehört wurde."
   }
  ],
  "planned": [
-  {
-   "id": "dieb",
-   "side": "familien",
-   "kurz": "Verhört man doch einen Dieb: Margaretha Tetzel, 1525",
-   "warum": "Mutter und Onkel wollen Margaretha Tetzel aus dem Kloster holen und weigern sich, sie auch nur am Redefenster anzuhören. Margaretha schreibt dem Pfleger: ‚verhört man doch einen dieb, ee man jn henckt‘. Das Recht, gehört zu werden, und wer es verweigerte.",
-   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 19–30."
-  },
   {
    "id": "prediger",
    "side": "reform",

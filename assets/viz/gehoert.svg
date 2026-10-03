@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 726" role="img" aria-labelledby="gh-t gh-t2" font-family="var(--serif)">
+<title id="gh-t">Wer wurde angehört? Die Sache Tetzel, Februar bis März 1525</title>
+<desc id="gh-t2">Elf Schritte vom Besuch der Mutter bis zum Religionsgespräch, jeweils mit dem Ergebnis: angehört, abgewiesen oder keine Antwort.</desc>
+<text x="16" y="30" font-size="17" font-weight="bold" fill="var(--ink)">Wer wurde angehört? Februar bis März 1525</text>
+<text x="16" y="50" font-size="13" fill="var(--ink2)">Jede Zeile führt zur Stelle. Farbe: was aus der Bitte wurde.</text>
+<circle cx="40" cy="70" r="7" fill="var(--familien)"/><text x="53" y="75" font-size="13" fill="var(--ink2)">angehört</text>
+<circle cx="190" cy="70" r="7" fill="var(--rat)"/><text x="203" y="75" font-size="13" fill="var(--ink2)">abgewiesen</text>
+<circle cx="345" cy="70" r="7" fill="var(--nachwelt)"/><text x="358" y="75" font-size="13" fill="var(--ink2)">keine Antwort</text>
+<line x1="132" y1="84" x2="132" y2="562" stroke="var(--line)" stroke-width="2"/>
+<a href="#/text/dieb/mutter/1"><g>
+<text x="16" y="106" font-size="13" fill="var(--ink2)">3. Febr.</text>
+<circle cx="132" cy="101" r="8" fill="var(--familien)"/>
+<text x="152" y="106" font-size="14" fill="var(--ink)">Mutter</text>
+<text x="262" y="106" font-size="14" fill="var(--ink)" text-decoration="underline">spricht eine Stunde allein mit der Tochter am Kommunionfenster</text>
+<text x="884" y="106" text-anchor="end" font-size="12.5" fill="var(--familien)">angehört</text>
+</g></a>
+<a href="#/text/dieb/mutter/3"><g>
+<text x="16" y="150" font-size="13" fill="var(--ink2)">Febr.</text>
+<circle cx="132" cy="145" r="8" fill="var(--nachwelt)"/>
+<text x="152" y="150" font-size="14" fill="var(--ink)">Äbtissin</text>
+<text x="262" y="150" font-size="14" fill="var(--ink)" text-decoration="underline">bittet den Pfleger um Rat: keine soll gegen ihren Willen hinaus</text>
+<text x="884" y="150" text-anchor="end" font-size="12.5" fill="var(--nachwelt)">keine Antwort</text>
+</g></a>
+<a href="#/text/dieb/mutter/4"><g>
+<text x="16" y="194" font-size="13" fill="var(--ink2)">Febr.</text>
+<circle cx="132" cy="189" r="8" fill="var(--rat)"/>
+<text x="152" y="194" font-size="14" fill="var(--ink)">Onkel Fürer</text>
+<text x="262" y="194" font-size="14" fill="var(--ink)" text-decoration="underline">verlangen die Tochter heraus und wollen sie nicht anhören</text>
+<text x="884" y="194" text-anchor="end" font-size="12.5" fill="var(--rat)">abgewiesen</text>
+</g></a>
+<a href="#/text/dieb/mutter/5"><g>
+<text x="16" y="238" font-size="13" fill="var(--ink2)">Febr.</text>
+<circle cx="132" cy="233" r="8" fill="var(--rat)"/>
+<text x="152" y="238" font-size="14" font-weight="bold" fill="var(--ink)">Margaretha</text>
+<text x="262" y="238" font-size="14" fill="var(--ink)" text-decoration="underline">bittet den Pfleger, die Onkel sollen sie vorher anhören</text>
+<text x="884" y="238" text-anchor="end" font-size="12.5" fill="var(--rat)">abgewiesen</text>
+</g></a>
+<a href="#/text/dieb/dieb/1"><g>
+<text x="16" y="282" font-size="13" fill="var(--ink2)">Febr.</text>
+<circle cx="132" cy="277" r="8" fill="var(--rat)"/>
+<text x="152" y="282" font-size="14" font-weight="bold" fill="var(--ink)">Margaretha</text>
+<text x="262" y="282" font-size="14" fill="var(--ink)" text-decoration="underline">schreibt Sigmund Fürer; Antwort: nicht nötig zu kommen</text>
+<text x="884" y="282" text-anchor="end" font-size="12.5" fill="var(--rat)">abgewiesen</text>
+</g></a>
+<a href="#/text/dieb/dieb/2"><g>
+<text x="16" y="326" font-size="13" fill="var(--ink2)">Febr.</text>
+<rect x="126" y="315" width="12" height="12" fill="var(--panel)" stroke="var(--konvent)" stroke-width="2" transform="rotate(45 132 321)"/>
+<text x="152" y="326" font-size="14" font-weight="bold" fill="var(--ink)">Margaretha</text>
+<text x="262" y="326" font-size="14" fill="var(--ink)" text-decoration="underline">‚verhört man doch einen Dieb, ehe man ihn henkt‘</text>
+</g></a>
+<a href="#/text/dieb/dieb/2"><g>
+<text x="16" y="370" font-size="13" fill="var(--ink2)">Febr.</text>
+<circle cx="132" cy="365" r="8" fill="var(--nachwelt)"/>
+<text x="152" y="370" font-size="14" fill="var(--ink)">Äbtissin</text>
+<text x="262" y="370" font-size="14" fill="var(--ink)" text-decoration="underline">bittet um ein öffentliches Verfahren vor den alten Herren</text>
+<text x="884" y="370" text-anchor="end" font-size="12.5" fill="var(--nachwelt)">vertröstet</text>
+</g></a>
+<a href="#/text/dieb/dieb/3"><g>
+<text x="16" y="414" font-size="13" fill="var(--ink2)">Febr.</text>
+<rect x="126" y="403" width="12" height="12" fill="var(--panel)" stroke="var(--konvent)" stroke-width="2" transform="rotate(45 132 409)"/>
+<text x="152" y="414" font-size="14" fill="var(--ink)">Pfleger</text>
+<text x="262" y="414" font-size="14" fill="var(--ink)" text-decoration="underline">rät zu warten: der Rat entscheide nicht ohne Anhörung der Parteien</text>
+</g></a>
+<a href="#/text/dieb/klage/1"><g>
+<text x="16" y="458" font-size="13" fill="var(--ink2)">Febr.</text>
+<circle cx="132" cy="453" r="8" fill="var(--familien)"/>
+<text x="152" y="458" font-size="14" fill="var(--ink)">Mutter</text>
+<text x="262" y="458" font-size="14" fill="var(--ink)" text-decoration="underline">klagt beim Rat; der Rat schickt die Klage dem Kloster</text>
+<text x="884" y="458" text-anchor="end" font-size="12.5" fill="var(--familien)">angehört</text>
+</g></a>
+<a href="#/text/dieb/klage/4"><g>
+<text x="16" y="502" font-size="13" fill="var(--ink2)">Febr.</text>
+<circle cx="132" cy="497" r="8" fill="var(--nachwelt)"/>
+<text x="152" y="502" font-size="14" fill="var(--ink)">Konvent</text>
+<text x="262" y="502" font-size="14" fill="var(--ink)" text-decoration="underline">antwortet schriftlich: man möge Margaretha selbst befragen</text>
+<text x="884" y="502" text-anchor="end" font-size="12.5" fill="var(--nachwelt)">keine Antwort</text>
+</g></a>
+<a href="#/text/dieb/klage/6"><g>
+<text x="16" y="546" font-size="13" fill="var(--ink2)">3. März</text>
+<rect x="126" y="535" width="12" height="12" fill="var(--panel)" stroke="var(--konvent)" stroke-width="2" transform="rotate(45 132 541)"/>
+<text x="152" y="546" font-size="14" fill="var(--ink)">Rat</text>
+<text x="262" y="546" font-size="14" fill="var(--ink)" text-decoration="underline">Religionsgespräch auf dem Rathaus, ‚meistens gegen die Barfüßer‘</text>
+</g></a>
+<line x1="16" y1="586" x2="884" y2="586" stroke="var(--line)"/>
+<text x="16" y="616" font-size="14.5" font-weight="bold" fill="var(--familien)">Die Mutter</text>
+<text x="130" y="616" font-size="14" fill="var(--ink)">angehört: eine Stunde am Fenster; ihre Klage nimmt der Rat an.</text>
+<text x="16" y="642" font-size="14.5" font-weight="bold" fill="var(--nachwelt)">Das Kloster</text>
+<text x="130" y="642" font-size="14" fill="var(--ink)">angehört: schriftlich, aber ohne Bescheid.</text>
+<text x="16" y="668" font-size="14.5" font-weight="bold" fill="var(--rat)">Margaretha</text>
+<text x="130" y="668" font-size="14" fill="var(--ink)">bis zum März von niemandem angehört: nicht von den Onkeln, nicht vom Pfleger, nicht vom Rat.</text>
+<text x="16" y="708" font-size="12.5" fill="var(--ink2)">Alles nach Caritas’ Aufzeichnungen; die Gegenseite spricht nur in den Briefen und der Klage, die sie abschrieb.</text>
+</svg>

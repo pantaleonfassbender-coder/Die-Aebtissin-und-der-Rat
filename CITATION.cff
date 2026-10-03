@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Die Äbtissin und der Rat. Caritas Pirckheimer und das Nürnberger Klarakloster 1524–1528. Ein Quellenapparat"
+message: "Wenn Sie diesen Apparat benutzen, zitieren Sie ihn bitte wie unten angegeben, und zitieren Sie für jede übernommene Stelle auch die gedruckte Quelle."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/Die-Aebtissin-und-der-Rat"
+url: "https://die-aebtissin-und-der-rat.netlify.app/"
+abstract: >-
+  Ein digitaler Quellenapparat zum Streit um das Nürnberger Klarakloster in
+  der Reformation: zehn Module mit 139 Einheiten, frühneuhochdeutsche und
+  lateinische Originale neben einer neuhochdeutschen Arbeitsübersetzung,
+  jeder Auszug am Seitenbild gelesen (Caritas Pirckheimers Denkwürdigkeiten
+  nach Höfler 1852, Pirckheimers Opera 1610/1665, Münch 1826, Luthers
+  Ursach und Antwort 1523 nach der Weimarer Ausgabe). Mit Zeitleiste,
+  26 Vergleichen, 42 gemeinfreien Bildtafeln, einer Visualisierung je Modul
+  und einer Liste der geprüften und nicht aufgenommenen Quellen.
+  Begleitspiel: Verhört man doch einen Dieb.
+keywords:
+  - Caritas Pirckheimer
+  - Klarakloster Nürnberg
+  - Klarissen
+  - Reformation
+  - Nürnberg
+  - Willibald Pirckheimer
+  - Frauenklöster
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-03

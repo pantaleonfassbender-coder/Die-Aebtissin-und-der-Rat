@@ -1,0 +1,35 @@
+{
+  "upload_type": "dataset",
+  "title": "Die Äbtissin und der Rat. Caritas Pirckheimer und das Nürnberger Klarakloster 1524–1528. Ein Quellenapparat",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>Ein digitaler Quellenapparat zum Streit um das Nürnberger Klarakloster in der Reformation, vom Beginn 1524 bis zum Ende der Aufzeichnungen der Äbtissin Caritas Pirckheimer 1528, mit einem Ausblick bis zum Tod der letzten Bewohnerin 1596. These, an den Texten zu prüfen: Die Äbtissin verlor den Streit mit dem Rat und behielt ihre Schwestern. Der Rat nahm ihnen die Franziskaner als Beichtväter, schickte seine Prediger und ließ keine neuen Schwestern mehr zu; aber bis 1530 verließ außer den drei Töchtern, die ihre Mütter 1525 herausholten, nur eine Schwester das Kloster, und aufgelöst hat der Rat es nie.</p><p>Stufe 1: zehn Module mit 139 Einheiten, frühneuhochdeutsche und lateinische Originale neben einer neuhochdeutschen Arbeitsübersetzung: die gelehrte Äbtissin 1502&ndash;1515 (Pirckheimers <em>Opera</em>, Frankfurt 1610/1665; Münch 1826); die große Sündflut 1524; Margaretha Tetzel 1525 (&bdquo;Verhört man doch einen Dieb&ldquo;); die Franziskaner genommen, die Prediger geschickt; die drei Töchter im Juni 1525; Melanchthon im Beichthaus, Herbst 1525; Visitation und Austritt 1526&ndash;1528 (alle nach C. Höfler, <em>Denkwürdigkeiten der Charitas Pirkheimer</em>, Bamberg 1852); Willibald Pirckheimer und das Kloster 1524&ndash;1530 (Brief an Melanchthon, Verteidigungsrede im Namen der Nonnen, Briefe Klara Pirckheimers); das Ende des Klosters bis 1596 (Glaser-Käterlein 1539, Bericht des Christian Koppius 1628); Luther und die Nonnen (<em>Ursach und Antwort</em>, 1523, nach der Weimarer Ausgabe; Herzog Georg von Sachsen 1526) als Gegenüberstellung, ohne behauptete Verbindung.</p><p>Jeder Auszug ist am Seitenbild des Digitalisats gelesen. Die Anmerkungen benennen Widersprüche der Quellen und die Gewalt beider Seiten; was nur aus der neueren Literatur stammt, ist gekennzeichnet. Mit Zeitleiste (28 Stationen), 26 Vergleichen, 42 gemeinfreien Bildtafeln, einer Visualisierung je Modul und einer Liste der geprüften und nicht aufgenommenen Quellen. Begleitspiel: <em>Verhört man doch einen Dieb</em>.</p><p><em>English:</em> A source apparatus (in German) on the Poor Clares of Nuremberg and their abbess Caritas Pirckheimer during the Reformation, 1524&ndash;1528, with an outlook to 1596: ten modules, 139 units, Early New High German and Latin originals with working translations, every excerpt read against page images; timeline, 26 paired readings, 42 public-domain plates, one visualization per module.</p><p>Lizenzen: Code MIT; redaktionelle Texte CC BY 4.0; Editionen und Arbeitsübersetzungen CC0 1.0 &mdash; siehe LICENSES.md. Live: https://die-aebtissin-und-der-rat.netlify.app/</p>",
+  "license": "MIT",
+  "language": "deu",
+  "keywords": [
+    "Caritas Pirckheimer",
+    "Charitas Pirkheimer",
+    "Klarakloster Nürnberg",
+    "Poor Clares",
+    "Klarissen",
+    "Reformation",
+    "Nürnberg",
+    "Willibald Pirckheimer",
+    "Philipp Melanchthon",
+    "Martin Luther",
+    "Frauenklöster",
+    "Quellenedition",
+    "Digital Humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://die-aebtissin-und-der-rat.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}

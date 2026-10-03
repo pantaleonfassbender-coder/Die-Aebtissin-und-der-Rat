@@ -82,5 +82,41 @@
   }
  ],
  "planned": [],
- "missing": []
+ "missing": [
+  {
+   "id": "bittschriften1525",
+   "side": "konvent",
+   "kurz": "Die übrigen Bittschriften und Briefe von 1525",
+   "warum": "Ausgewählt, nicht vollständig aufgenommen: Zwischen den Ereignissen, die die Module erzählen, schreibt Caritas weitere Bittschriften an den Rat und Briefe an Pfleger und Verwandte ab, die Höfler mitzählt. Sie wiederholen meist die Gründe, die in den Modulen ‚Die große Sündflut‘ und ‚Die Väter genommen‘ stehen; die Module nennen ihre Auswahl.",
+   "quelle": "C. Höfler (Hg.), Denkwürdigkeiten der Charitas Pirkheimer (Bamberg 1852), besonders S. 59–69 und 72–88 (Internet Archive 11420769bsb)."
+  },
+  {
+   "id": "osiander",
+   "side": "reform",
+   "kurz": "Osianders Brief an den Bürgermeister, August 1525",
+   "warum": "Aus Umfangsgründen nicht aufgenommen: Höfler druckt im Anschluss an die Geschichte der drei Töchter einen Brief Andreas Osianders. Osiander kommt im Apparat nur aus Caritas' Sicht vor (Modul ‚Melanchthon im Beichthaus‘, Linck [3]); eine eigene Stimme der Nürnberger Prediger fehlt damit.",
+   "quelle": "C. Höfler (Hg.), Denkwürdigkeiten der Charitas Pirkheimer (Bamberg 1852), S. 111 ff."
+  },
+  {
+   "id": "melanchthon_cr",
+   "side": "reform",
+   "kurz": "Melanchthons eigene Briefe über den Besuch",
+   "warum": "Nicht geprüft: Was Melanchthon im November 1525 im Klarakloster sagte, kennt der Apparat nur aus Caritas' Bericht. Ob seine eigenen Briefe im Corpus Reformatorum den Besuch erwähnen, ist nicht untersucht; das Modul ‚Melanchthon im Beichthaus‘ sagt es.",
+   "quelle": "Philippi Melanthonis opera quae supersunt omnia, hg. von C. G. Bretschneider, Corpus Reformatorum Bd. 1 (Halle 1834)."
+  },
+  {
+   "id": "ratsverlaesse",
+   "side": "rat",
+   "kurz": "Der Ratsbeschluss gegen neue Schwestern",
+   "warum": "Nicht erreichbar: Dass das Kloster keine Novizinnen mehr aufnehmen durfte, kündigen die Gesandten des Rats 1525 an (Modul ‚Die Väter genommen‘, Artikel), und 1539 setzt die Bitte um eine Magd ohne Gelübde es voraus (Modul ‚Bis 1596‘). Einen Beschluss selbst druckt Höfler nicht; die Nürnberger Ratsverlässe liegen in keinem freien Volltext vor, der hier gefunden wurde.",
+   "quelle": "Staatsarchiv Nürnberg, Ratsverlässe 1525 ff. (ungedruckt bzw. nicht frei zugänglich)."
+  },
+  {
+   "id": "dietenberger",
+   "side": "reform",
+   "kurz": "Dietenbergers Antwort auf Luther, 1523",
+   "warum": "Nicht gefunden: Gegen Luthers ‚Ursach und Antwort‘ schrieb der Dominikaner Johannes Dietenberger noch 1523 eine ‚Antwort, daß Jungfrauen die Klöster nimmer göttlich verlassen mögen‘ (nach der Einleitung der Weimarer Ausgabe). Ein freies Digitalisat wurde im Internet Archive nicht gefunden; als katholische Gegenstimme steht im Modul ‚Luther und die Nonnen‘ stattdessen Herzog Georg von Sachsen.",
+   "quelle": "J. Dietenberger, Antwurt, daß Junckfrawen die Klöster und klösterliche Glübd nümmer götlich verlassen mögen (Straßburg: Grüninger 1523)."
+  }
+ ]
 }

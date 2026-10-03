@@ -43,7 +43,7 @@ python tools/verify.py
 
 Bildtafeln: `python tools/make-plates.py`; Visualisierungen: `tools/make-viz.py` und `tools/viz-*.py`.
 
-Das Begleitspiel *Verhört man doch einen Dieb* nimmt seinen Titel von der Schwester Margaretha Tetzel (1525).
+Das Begleitspiel *Verhört man doch einen Dieb* (Prototyp 0, https://verhoert-man-doch-einen-dieb.netlify.app/) nimmt seinen Titel von der Schwester Margaretha Tetzel (1525).
 
 Code MIT; Editionen und Arbeitsübersetzungen CC0; redaktionelle Texte CC BY 4.0 (siehe `LICENSES.md`).
 

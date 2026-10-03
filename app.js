@@ -65,7 +65,7 @@ function overview() {
     <div class="panel"><h3>Wer übte Gewalt, und wer nannte sie so?</h3>
       <p>Die Mütter, die ihre Töchter aus dem Kloster ziehen ließen, beriefen sich auf ihr Gewissen; die Töchter riefen auf der Straße, man tue ihnen Gewalt und Unrecht. Der Apparat erzählt beides und nennt auch, was das Kloster selbst von Mädchen verlangte, die es als Kinder aufnahm.</p></div>
     <div class="panel"><h3>Lässt sich das spielen?</h3>
-      <p>Ein Begleitspiel, <em>Verhört man doch einen Dieb</em>, ist in Vorbereitung: Man spielt die Äbtissin, von 1524 bis 1528, mit einem Epilog bis 1596. Seine Karten werden auf die Stellen verweisen, die hier abgedruckt sind.</p></div>
+      <p>Das Begleitspiel <a href="https://verhoert-man-doch-einen-dieb.netlify.app/"><em>Verhört man doch einen Dieb</em></a> ist spielbar (Prototyp 0): Man spielt die Äbtissin, von der großen Sündflut 1524 bis zum Ende der Aufzeichnungen 1528, mit einem Epilog bis 1596, zwischen Rat, Pfleger, Familien und Freunden. Was der Rat befahl, geschieht; was die Äbtissin bewahrt, entscheidet die Spielerin. Jede Karte verweist auf eine Stelle, die hier abgedruckt ist.</p></div>
   </div>`;
 }
 

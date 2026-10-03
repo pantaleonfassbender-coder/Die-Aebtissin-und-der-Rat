@@ -60,6 +60,11 @@ PLATES = {
     "hoefler_s204": ("ia", "https://archive.org/download/11420769bsb/page/n322_w1400.jpg", (60, 40, 960, 700)),
     "hoefler_s206": ("ia", "https://archive.org/download/11420769bsb/page/n324_w1400.jpg", (60, 260, 960, 760)),
     "pillenreuth_boener": ("commons", "File:Johann Alexander Böner Wahrhafte Abriße 169 Kloster Pillenreuth.jpg", None),
+    # Modul Willibald
+    "pirckheimer1503": ("commons", "File:Dürer, Profilbildnis des Willibald Pirckheimer, 1503, Kohle, 28,2 x 20,8 cm (SMB).jpg", None),
+    "exlibris_pirckheimer": ("commons", "File:Dürer, Albrecht Exlibris Wilibald Pirkheimer.jpg", None),
+    "opera_s374": ("ia", "https://archive.org/download/bub_gb_XFSzOVms1AoC/page/n414_w1400.jpg", (20, 650, 1000, 960)),
+    "opera_s384": ("ia", "https://archive.org/download/bub_gb_XFSzOVms1AoC/page/n424_w1400.jpg", (20, 20, 1000, 520)),
 }
 
 

@@ -463,6 +463,58 @@
      ]
     }
    ]
+  },
+  {
+   "id": "henker2",
+   "titel": "Der Henker, zweimal",
+   "frage": "Derselbe Satz im Brief der Äbtissin an den Schwager und im Brief ihrer Schwester an den Bruder, Advent 1524.",
+   "note": "Caritas schreibt Martin Geuder, lieber solle man einen Henker ins Kloster schicken als ‚volle, unkeusche Pfaffen‘. Klara schreibt Willibald, die Schwestern sagten, ‚es wär ja nützer, es seien der Henker herinn‘. Und sie schickt ihm eine Abschrift von Caritas' Brief, den die Äbtissin ‚im ersten Rausch‘ geschrieben habe und für ‚viel zu grob‘ halte. Der Satz war also die Meinung des Konvents, und die Äbtissin milderte ihn, nicht weil sie ihn nicht meinte, sondern weil sie wusste, wie er klang.",
+   "voices": [
+    {
+     "text": "sindflut",
+     "sec": "briefe",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "willibald",
+     "sec": "klara",
+     "n": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gewaltglaube",
+   "titel": "Glauben mit Gewalt",
+   "frage": "Willibald 1525, Melanchthon im November 1525, die Rede von 1530.",
+   "note": "Im Frühjahr 1525 schreibt Willibald an Melanchthon, als ob der Glaube eher durch Gewalt als durch Überzeugung oder als Gabe Gottes erworben würde. Im November sagt Melanchthon nach Caritas' Bericht dem Rat, es sei groß wider Gott, die Leute mit Gewalt zu bedrängen. 1530 setzt die Rede den Satz kursiv: Wer hat je gehört, dass man den Glauben mit Gewalt eingießen könne? Ob Melanchthons Haltung auf Willibalds Brief zurückgeht, lässt sich aus diesen Quellen nicht sagen.",
+   "voices": [
+    {
+     "text": "willibald",
+     "sec": "melanchthon",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "melanchthon",
+     "sec": "besuch",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "willibald",
+     "sec": "oratio",
+     "n": [
+      6
+     ]
+    }
+   ]
   }
  ]
 }

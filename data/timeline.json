@@ -124,6 +124,15 @@
    "plate": "osiander1544"
   },
   {
+   "d": "Frühjahr 1525",
+   "side": "nachwelt",
+   "titel": "Willibald an Melanchthon",
+   "text": "Willibald Pirckheimer bittet Melanchthon um Hilfe für das Kloster, in dem zwei seiner Schwestern und zwei Töchter leben, und gesteht, er habe ‚mit den anderen geirrt‘, als er die Töchter als Kinder eintreten ließ. Datiert nach dem Inhalt.",
+   "cite": "#/text/willibald/melanchthon/1",
+   "citeLabel": "An Melanchthon [1]",
+   "plate": "opera_s374"
+  },
+  {
    "d": "7. Juni 1525",
    "side": "rat",
    "titel": "Die fünf Artikel",
@@ -176,6 +185,15 @@
    "cite": "#/text/ordnung/bamberg/1",
    "citeLabel": "Bamberg [1]",
    "plate": "redwitz"
+  },
+  {
+   "d": "1530",
+   "side": "nachwelt",
+   "titel": "Im Namen der Nonnen",
+   "text": "Willibald schreibt im Namen der Schwestern eine lateinische Verteidigungsrede an den Rat: sechzig Frauen, sieben über siebzig, fünf Jahre ohne Eucharistie. ‚Wer hat je gehört, dass man den Glauben mit Gewalt eingießen könne?‘ Datiert nach dem Inhalt; Willibald starb nach der neueren Literatur im Dezember 1530.",
+   "cite": "#/text/willibald/oratio/5",
+   "citeLabel": "Rede [5]",
+   "plate": "opera_s384"
   },
   {
    "d": "19. August 1532",

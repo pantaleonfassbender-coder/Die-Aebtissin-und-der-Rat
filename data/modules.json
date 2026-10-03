@@ -57,6 +57,14 @@
    "warum": "Die letzten Seiten der Denkwürdigkeiten. An Allerseelen 1527 kommen Ratsherren und ein Jurist, um die Schwestern einzeln über ihr Gewissen zu befragen; die Äbtissin: ‚Ihr seid heftige Beichtväter.‘ 39 lassen sich befragen, 13 nicht. Eine, Anna Schwarz, geht im Februar 1528 aus eigenem Willen; ihre Begründung musste sie aus der Quittung streichen. Im August 1528 lädt der Bischof von Bamberg vor, und die Aufzeichnungen enden. Höfler S. 176–191, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und den 52 Schwestern als Grafik."
   },
   {
+   "id": "willibald",
+   "datei": "willibald",
+   "side": "nachwelt",
+   "kurz": "Der Bruder: Willibald Pirckheimer und das Kloster, 1524–1530",
+   "zk": "An Melanchthon, Rede, Klara",
+   "warum": "Willibald Pirckheimer, Humanist und Ratsherr, hatte zwei Schwestern und zwei Töchter im Klarakloster. 1525 bittet er Melanchthon um Hilfe und gesteht, es sei ein Irrtum gewesen, die Töchter als Kinder eintreten zu lassen; um 1530 schreibt er im Namen der Nonnen eine lateinische Verteidigungsrede an den Rat: ‚Wer hat je gehört, dass man den Glauben mit Gewalt eingießen könne?‘ Dazu Briefe seiner Schwester Klara, die zeigen, wie er den Konvent im Hintergrund beriet. Latein und Frühneuhochdeutsch, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und einem Familiennetz."
+  },
+  {
    "id": "ende",
    "datei": "ende",
    "side": "nachwelt",
@@ -66,13 +74,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "willibald",
-   "side": "nachwelt",
-   "kurz": "Der Bruder: Willibald Pirckheimer und das Kloster",
-   "warum": "Willibald Pirckheimer, Humanist, Ratsherr und Freund Dürers, stand anfangs der neuen Lehre nahe und verteidigte doch das Kloster seiner Schwestern. Seine Briefe und seine Schutzschrift für das Klarakloster, soweit sie gemeinfrei gedruckt sind.",
-   "quelle": "E. Münch (1826); W. Pirckheimer, Opera (hg. Goldast, Frankfurt 1610, benutzt in der Ausgabe 1665)."
-  },
   {
    "id": "vergleich",
    "side": "reform",

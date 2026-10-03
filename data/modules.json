@@ -31,16 +31,17 @@
    "kurz": "Die Väter genommen, die Prediger geschickt, März bis Juni 1525",
    "zk": "Oculi, Pfleger, Prediger, Artikel",
    "warum": "Am 19. März 1525 nimmt der Rat dem Kloster die Franziskaner und schickt eigene Prediger; die Schwestern sind seither ohne Sakramente. Der Pfleger Kaspar Nützel predigt dem Konvent, die Bauern kämen; die Äbtissin bietet an hinauszugehen, damit er die Schwestern allein höre, und er will nicht. In der Karwoche müssen alle Schwestern alle Prediger der Stadt hören; man wirft Steine in ihren Chor. Am Pfingstmittwoch bringt der Rat fünf Artikel: Gelübde lösen, Töchter herausgeben, Kutten ablegen. Auswahl aus Höfler S. 33–96, am Seitenbild gelesen, mit Übersetzung, fünf Tafeln und einer Übersicht der Forderungen."
+  },
+  {
+   "id": "toechter",
+   "datei": "toechter",
+   "side": "familien",
+   "kurz": "Da stee ich: die Töchter, Juni 1525",
+   "zk": "Vorher, Fronleichnam, Danach",
+   "warum": "Am Vorabend von Fronleichnam 1525 holen drei Mütter ihre Töchter, Margaretha Tetzel, Katharina Ebner und Clara Nützel, auf Befehl des Rates aus dem Kloster, gegen deren erklärten Willen. Die drei Tage vorher, die Übergabe in der Kapelle vor zwei Ratsherren, Katharinas ‚Da stehe ich und will nicht weichen‘, was danach geschah, und wie der Stadtchronist den Tag erzählte: die Töchter seien ‚des Klosterlebens überdrüssig‘ geworden. Höfler S. 97–111, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und einer Übersicht der drei Töchter."
   }
  ],
  "planned": [
-  {
-   "id": "toechter",
-   "side": "familien",
-   "kurz": "Da stee ich: die Töchter, Juni 1525",
-   "warum": "Drei Mütter lassen ihre Töchter, Katharina Ebner, Clara Nützel und Margaretha Tetzel, mit Gewalt aus dem Kloster ziehen. Katharina sagt vorher: ‚da stee ich und will nicht weichen‘. Die Gewalt wird erzählt, wie Caritas sie erzählt, und die Gründe der Mütter werden genannt.",
-   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), S. 98–110."
-  },
   {
    "id": "melanchthon",
    "side": "reform",

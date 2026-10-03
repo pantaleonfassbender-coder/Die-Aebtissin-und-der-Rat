@@ -265,6 +265,58 @@
      ]
     }
    ]
+  },
+  {
+   "id": "zweifassungen",
+   "titel": "Zwei Fassungen eines Tages",
+   "frage": "Wie die Äbtissin und wie der Nürnberger Stadtchronist den 14. Juni 1525 erzählen.",
+   "note": "Caritas schreibt, die Töchter seien gegen ihren Willen hinausgezogen worden und hätten auf der Straße gerufen, ihnen geschehe Gewalt und Unrecht. Der Ratsschreiber Johannes Müllner, im frühen 17. Jahrhundert, schreibt, sie seien ‚des Klosterlebens überdrüssig‘ geworden und hätten sich zu ihren Eltern ‚begeben‘; Müllners Wortlaut kennt der Apparat nur aus Höflers Anmerkung. Caritas war Partei, aber Augenzeugin; Müllner schrieb als Ratsschreiber, Jahrzehnte später.",
+   "voices": [
+    {
+     "text": "toechter",
+     "sec": "fronleichnam",
+     "n": [
+      6,
+      7
+     ]
+    },
+    {
+     "text": "toechter",
+     "sec": "danach",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mutterrecht",
+   "titel": "Welche Gewalt hat eine Mutter?",
+   "frage": "Im Februar bestreitet der Konvent den Müttern die väterliche Gewalt; im Juni berufen sich die Mütter auf das vierte Gebot, und die Tochter antwortet selbst.",
+   "note": "Die Antwort an den Rat im Fall Tetzel argumentierte juristisch: Mütter haben nicht die Gewalt, die Väter haben. Im Juni handeln die Väter durch die Mütter: Der Rat befiehlt, die Mütter holen. Katharina Ebner antwortet nicht mit dem Recht, sondern mit der Theologie: Die Mutter des Fleisches ist nicht die Mutter des Geistes. Der zweite der Artikel vom 7. Juni hatte den Gehorsam der Kinder gegen die Eltern ausdrücklich ‚Gottes Gebot‘ genannt.",
+   "voices": [
+    {
+     "text": "dieb",
+     "sec": "klage",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "prediger",
+     "sec": "artikel",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "toechter",
+     "sec": "fronleichnam",
+     "n": [
+      4
+     ]
+    }
+   ]
   }
  ]
 }

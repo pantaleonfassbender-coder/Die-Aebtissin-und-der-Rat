@@ -40,6 +40,11 @@ PLATES = {
     "hoefler_s89": ("ia", "https://archive.org/download/11420769bsb/page/n207_w1400.jpg", (60, 560, 960, 935)),
     "osiander1544": ("commons", "File:Andreas-Osiander.jpg", None),
     "lorenz1685": ("commons", "File:Kupferstich - Nürnberg - Lorenzkirche - von innen - Graff - 1685.jpg", None),
+    # Modul 5
+    "hoefler_s104": ("ia", "https://archive.org/download/11420769bsb/page/n222_w1400.jpg", (60, 40, 960, 560)),
+    "hoefler_s106": ("ia", "https://archive.org/download/11420769bsb/page/n224_w1400.jpg", (60, 330, 1000, 700)),
+    "hoefler_s107": ("ia", "https://archive.org/download/11420769bsb/page/n225_w1400.jpg", (60, 650, 960, 960)),
+    "obstmarkt1725": ("commons", "File:Kupferstich - Nürnberg - Der Obstmarckt zu Nürnberg - Delsenbach - 1725.jpg", None),
 }
 
 

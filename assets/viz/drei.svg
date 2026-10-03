@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="dr-t dr-d" font-family="var(--serif)">
+<title id="dr-t">Die drei Töchter, Juni 1525</title>
+<desc id="dr-d">Margaretha Tetzel, Katharina Ebner und Clara Nützel: Alter, Jahre im Kloster, Alter beim Eintritt, ihre Väter und ein Satz jeder von ihnen; darunter die Tage vom 10. Juni bis zum 13. August 1525.</desc>
+<text x="16" y="30" font-size="17" font-weight="bold" fill="var(--ink)">Die drei Töchter</text>
+<text x="16" y="50" font-size="13" fill="var(--ink2)">Lebensjahre als Balken: hell vor dem Eintritt, dunkel im Kloster. Angaben nach Caritas, Höfler S. 102.</text>
+<line x1="210" y1="70" x2="210" y2="376" stroke="var(--line)"/>
+<text x="210" y="66" text-anchor="middle" font-size="11.5" fill="var(--ink2)">0</text>
+<line x1="310" y1="70" x2="310" y2="376" stroke="var(--line)"/>
+<text x="310" y="66" text-anchor="middle" font-size="11.5" fill="var(--ink2)">5</text>
+<line x1="410" y1="70" x2="410" y2="376" stroke="var(--line)"/>
+<text x="410" y="66" text-anchor="middle" font-size="11.5" fill="var(--ink2)">10</text>
+<line x1="510" y1="70" x2="510" y2="376" stroke="var(--line)"/>
+<text x="510" y="66" text-anchor="middle" font-size="11.5" fill="var(--ink2)">15</text>
+<line x1="610" y1="70" x2="610" y2="376" stroke="var(--line)"/>
+<text x="610" y="66" text-anchor="middle" font-size="11.5" fill="var(--ink2)">20</text>
+<a href="#/text/toechter/fronleichnam/5"><g>
+<text x="16" y="96" font-size="15.5" font-weight="bold" fill="var(--konvent)">Margaretha Tetzel</text>
+<text x="16" y="114" font-size="12.5" fill="var(--ink2)">23 Jahre, 9 im Kloster</text>
+<rect x="210" y="84" width="280" height="22" fill="var(--familien)" opacity="0.35"/>
+<rect x="490" y="84" width="180" height="22" fill="var(--konvent)"/>
+<text x="486" y="100" text-anchor="end" font-size="12" fill="var(--ink)">Eintritt mit 14</text>
+<text x="678" y="100" font-size="12" fill="var(--rat)">14. Juni 1525</text>
+<text x="210" y="128" font-size="12.5" fill="var(--ink2)">Vater Friedrich Tetzel †, Mutter Ursula, geb. Fürer</text>
+<text x="210" y="148" font-size="14" font-style="italic" fill="var(--ink)" text-decoration="underline">zur Äbtissin: ‚o liebe Mutter, treibt uns nicht so von Euch‘</text>
+</g></a>
+<a href="#/text/toechter/fronleichnam/6"><g>
+<text x="16" y="206" font-size="15.5" font-weight="bold" fill="var(--konvent)">Katharina Ebner</text>
+<text x="16" y="224" font-size="12.5" fill="var(--ink2)">20 Jahre, 6 im Kloster</text>
+<rect x="210" y="194" width="280" height="22" fill="var(--familien)" opacity="0.35"/>
+<rect x="490" y="194" width="120" height="22" fill="var(--konvent)"/>
+<text x="486" y="210" text-anchor="end" font-size="12" fill="var(--ink)">Eintritt mit 14</text>
+<text x="618" y="210" font-size="12" fill="var(--rat)">14. Juni 1525</text>
+<text x="210" y="238" font-size="12.5" fill="var(--ink2)">Vater Hieronymus Ebner, Ratsherr</text>
+<text x="210" y="258" font-size="14" font-style="italic" fill="var(--ink)" text-decoration="underline">‚Da stehe ich und will nicht weichen‘</text>
+</g></a>
+<a href="#/text/toechter/fronleichnam/7"><g>
+<text x="16" y="316" font-size="15.5" font-weight="bold" fill="var(--konvent)">Clara Nützel</text>
+<text x="16" y="334" font-size="12.5" fill="var(--ink2)">19 Jahre, 6 im Kloster</text>
+<rect x="210" y="304" width="260" height="22" fill="var(--familien)" opacity="0.35"/>
+<rect x="470" y="304" width="120" height="22" fill="var(--konvent)"/>
+<text x="466" y="320" text-anchor="end" font-size="12" fill="var(--ink)">Eintritt mit 13</text>
+<text x="598" y="320" font-size="12" fill="var(--rat)">14. Juni 1525</text>
+<text x="210" y="348" font-size="12.5" fill="var(--ink2)">Vater Kaspar Nützel, Pfleger des Klosters</text>
+<text x="210" y="368" font-size="14" font-style="italic" fill="var(--ink)" text-decoration="underline">‚du weißt, dass es nicht mein Wille ist‘</text>
+</g></a>
+<line x1="16" y1="410" x2="884" y2="410" stroke="var(--line)"/>
+<text x="16" y="434" font-size="14" font-weight="bold" fill="var(--ink)">Die Tage</text>
+<a href="#/text/toechter/vorher/1"><g><rect x="18.0" y="446" width="165.6" height="62" rx="6" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1"/><text x="26.0" y="466" font-size="13" font-weight="bold" fill="var(--ink2)">Sa 10. Juni</text>
+<text x="26.0" y="484" font-size="12.5" fill="var(--ink)">die Väter lassen es</text>
+<text x="26.0" y="499" font-size="12.5" fill="var(--ink)">ausrichten</text>
+</g></a>
+<a href="#/text/toechter/vorher/2"><g><rect x="191.6" y="446" width="165.6" height="62" rx="6" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1"/><text x="199.6" y="466" font-size="13" font-weight="bold" fill="var(--ink2)">Mo 12. Juni</text>
+<text x="199.6" y="484" font-size="12.5" fill="var(--ink)">vier Mütter am Tor</text>
+</g></a>
+<a href="#/text/toechter/vorher/3"><g><rect x="365.2" y="446" width="165.6" height="62" rx="6" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1"/><text x="373.2" y="466" font-size="13" font-weight="bold" fill="var(--ink2)">Di 13. Juni</text>
+<text x="373.2" y="484" font-size="12.5" fill="var(--ink)">Klage vor dem Rat;</text>
+<text x="373.2" y="499" font-size="12.5" fill="var(--ink)">Befehl</text>
+</g></a>
+<a href="#/text/toechter/fronleichnam/3"><g><rect x="538.8" y="446" width="165.6" height="62" rx="6" fill="var(--panel)" stroke="var(--rat)" stroke-width="2"/><text x="546.8" y="466" font-size="13" font-weight="bold" fill="var(--rat)">Mi 14. Juni</text>
+<text x="546.8" y="484" font-size="12.5" fill="var(--ink)">Übergabe in der Kapelle</text>
+</g></a>
+<a href="#/text/toechter/danach/2"><g><rect x="712.4" y="446" width="165.6" height="62" rx="6" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1"/><text x="720.4" y="466" font-size="13" font-weight="bold" fill="var(--ink2)">13. Aug.</text>
+<text x="720.4" y="484" font-size="12.5" fill="var(--ink)">Kostgeld angeboten,</text>
+<text x="720.4" y="499" font-size="12.5" fill="var(--ink)">Töchter zurückverlangt</text>
+</g></a>
+<text x="16" y="550" font-size="12.5" fill="var(--ink2)">Die Mütter nannten das Eintrittsalter ‚unverständige Jahre‘; der Konvent antwortete, die Töchter seien inzwischen verständig.</text>
+</svg>

@@ -1,4 +1,57 @@
 {
  "lede": "Zwei Stimmen über dieselbe Sache, nebeneinander gelesen.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "geschlecht",
+   "titel": "Ein Schöpfer für beide Geschlechter?",
+   "frage": "Caritas 1502 über die Gelehrten, die alles von Frauen gering achten, und ihr Herausgeber 1826 über dieselbe Stelle.",
+   "note": "Caritas argumentiert theologisch: Beide Geschlechter haben einen Schöpfer, Erlöser und Heiland, und Gott teilt das Wissen zu, wem er will. Münch übersetzt den Satz und widerspricht ihm in der Anmerkung: Gelehrte Frauen seien Ausnahmen, zugelassen nur, wenn sie ‚alle übrigen Pflichten ihres Berufes‘ erfüllen. Hier steht die Stimme von 1502 für die Gleichheit vor Gott, die von 1826 für die Ausnahme.",
+   "voices": [
+    {
+     "text": "gelehrte",
+     "sec": "celtis",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "gelehrte",
+     "sec": "muench",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lob",
+   "titel": "Wie man eine gelehrte Nonne lobt",
+   "frage": "Celtis' Ode, Scheurls Brief und Peypus' Vorwort: drei Männer stellen Caritas aus; sie selbst nennt sich ungelehrt.",
+   "note": "Celtis macht sie zur Tochter des gelehrten Vaters und Schülerin des gelehrten Bruders; Scheurl lobt sie ‚über das Maß des weiblichen Verstandes hinaus‘ und vergleicht sie mit der Venezianerin Cassandra Fedele; Peypus druckt ihre Briefe, damit das Buch sich verkaufe. Caritas schreibt dagegen an Willibald, sie sei ‚nicht gelehrt, wenn auch eine Liebhaberin der Gelehrten‘. Ob das Bescheidenheit nach der Regel des Briefstils ist oder Vorsicht nach dem Verbot der Franziskaner, sagen die Texte nicht.",
+   "voices": [
+    {
+     "text": "gelehrte",
+     "sec": "celtis",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "gelehrte",
+     "sec": "scheurl",
+     "n": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "gelehrte",
+     "sec": "bruder",
+     "n": [
+      2
+     ]
+    }
+   ]
+  }
+ ]
 }

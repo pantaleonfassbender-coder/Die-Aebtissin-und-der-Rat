@@ -5,10 +5,11 @@
 Checks: every shipped module has its data file; section citation labels
 (zk) are unique; every '#/text/...' link in the timeline and the compare
 pairs points to an existing unit; every compare
-voice exists; every plate has its image and thumbnail; every timeline plate
-exists. Prints the problems and a last line 'bad N'.
+voice exists; every plate has its image and thumbnail; every timeline plate,
+section plate and visualisation link exists. Prints the problems and a last line 'bad N'.
 """
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -18,6 +19,7 @@ load = lambda f: json.load(open(D / f, encoding="utf-8"))
 bad = []
 mods = load("modules.json")
 units, labels = set(), {}
+sec_plates, viz_links = [], []
 for m in mods["shipped"]:
     f = D / f"{m['datei']}.json"
     if not f.exists():
@@ -30,6 +32,13 @@ for m in mods["shipped"]:
         labels[s["zk"]] = f"{m['id']}/{s['id']}"
         for u in s["units"]:
             units.add(f"#/text/{m['id']}/{s['id']}/{u['n']}")
+        sec_plates.extend((f"{m['id']}/{s['id']}", pid) for pid in s.get("plates", []))
+        if s.get("viz"):
+            viz = ROOT / "assets" / "viz" / f"{s['viz']}.svg"
+            if not viz.exists():
+                bad.append(f"{m['id']}/{s['id']}: viz missing {viz.name}")
+            else:
+                viz_links.extend((viz.name, h) for h in re.findall(r'href="(#/text/[^"]+)"', viz.read_text(encoding="utf-8")))
 
 def check_link(href, where):
     if href.startswith("#/text/") and href not in units:
@@ -47,6 +56,11 @@ for p in plates["plates"]:
     for suffix in ("", "_t"):
         if not (ROOT / "assets" / "plates" / f"{p['id']}{suffix}.jpg").exists():
             bad.append(f"plate image missing: {p['id']}{suffix}.jpg")
+for where, pid in sec_plates:
+    if pid not in plate_ids:
+        bad.append(f"section {where}: no such plate {pid}")
+for name, href in viz_links:
+    check_link(href, f"viz {name}")
 cmp_ = load("compare.json")
 shipped = {m["id"]: m for m in mods["shipped"]}
 for p in cmp_["pairs"]:

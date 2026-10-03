@@ -58,7 +58,7 @@ figcaption{font-size:.85rem; color:var(--ink2); margin-top:.4rem}
 .unit .orig[lang=grc]{font-family:"Gentium Plus","Gentium Book Plus","Palatino Linotype","GFS Didot","Times New Roman",serif; color:var(--ink); font-size:1.02em; line-height:1.6}
 .unit.label .text{font-variant:small-caps; letter-spacing:.03em; font-weight:600; color:var(--red)}
 .unit h4{margin:0 0 .3rem; font-size:.95rem; color:var(--red)}
-.unit .text,.unit .orig{white-space:pre-line}
+.unit .text,.unit .orig{white-space:pre-wrap}
 .unit .orig[dir=rtl]{font-family:"Traditional Arabic","Sakkal Majalla","Noto Naskh Arabic","Geeza Pro",serif; font-size:1.3em; line-height:1.9; color:var(--ink)}
 .unit .translit{margin-top:.5rem; font-size:.88em; font-style:italic; color:var(--ink2)}
 .note{grid-column:2; font-size:.84rem; color:var(--ink2); border-left:2px solid var(--gold); padding-left:.6rem}
@@ -73,6 +73,11 @@ figcaption{font-size:.85rem; color:var(--ink2); margin-top:.4rem}
 .legend{display:flex; flex-wrap:wrap; gap:.4rem}
 /* plates */
 .plate img{width:100%; border-radius:6px; border:1px solid var(--line); background:#fff}
+.secplates{margin:1rem 0}
+.secplates figcaption{font-size:.85rem}
+.viz{margin:1rem 0; overflow-x:auto; border:1px solid var(--line); border-radius:8px; padding:.6rem; background:var(--panel)}
+.viz svg{display:block; width:100%; min-width:600px; height:auto}
+.viz .vcap{font-size:.85rem; margin:.4rem 0 0}
 .lightbox{position:fixed; inset:0; background:rgba(20,16,12,.85); display:flex; align-items:center; justify-content:center; padding:16px; z-index:10}
 .lightbox img{max-width:100%; max-height:86vh; border-radius:6px}
 .lightbox .cap{color:#f5efe2; max-width:44rem; font-size:.9rem; margin-top:.6rem}

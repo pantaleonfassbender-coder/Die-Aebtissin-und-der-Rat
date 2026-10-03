@@ -106,12 +106,19 @@ async function reader([id, secId, unitN]) {
     <p class="fine">${esc(t.autor)}</p>
     <nav class="toc">${t.sections.map(s => `<a href="#/text/${id}/${s.id}" class="${s.id === sec.id ? "on" : ""}">${esc(s.titel)}</a>`).join("")}</nav>
     <div class="panel readable"><h3>${esc(sec.titel)}</h3><p>${esc(sec.blurb)}</p></div>
+    ${(sec.plates || []).length ? `<div class="grid g4 secplates">${sec.plates.map(plateOf).filter(Boolean).map(plateFig).join("")}</div>` : ""}
+    ${sec.viz ? `<div class="viz" id="viz"><p class="fine">Wird geladen…</p></div>` : ""}
     ${bilingual ? `<div class="langbar" id="langbar">
       ${[["both", `${origName} + Übersetzung`], ["orig", origName], ["en", "Übersetzung"]].map(([k, l]) =>
         `<button data-l="${k}" class="${k === lang ? "on" : ""}">${l}</button>`).join("")}</div>` : ""}
     <div id="units"></div>
     <div class="panel readable hinweis"><span class="tag">Quelle und Editionsnotiz</span>
       <p><b>Quelle.</b> ${esc(t.quelle)}</p><p>${esc(t.hinweis)}</p></div>`;
+  bindPlates(view);
+  if (sec.viz) fetch(`assets/viz/${sec.viz}.svg`).then(r => r.ok ? r.text() : "").then(svg => {
+    const el = document.getElementById("viz");
+    if (el) el.innerHTML = svg || "";
+  });
   const box = view.querySelector("#units");
   for (const u of sec.units) {
     const showO = u.orig && lang !== "en", showE = !u.orig || lang !== "orig";
@@ -158,7 +165,7 @@ async function compare([pid]) {
     const sec = t.sections.find(s => s.id === v.sec);
     const units = v.n.map(n => sec.units.find(u => u.n === n)).filter(Boolean);
     return `<div class="voice">
-      <div class="vhead">${side(m.side)} <b>${esc(t.autor)}</b><br><span class="fine">${esc(t.jahr)} · ${esc(sec.titel)}</span></div>
+      <div class="vhead">${side(m.side)} <b>${esc(sec.autor || t.autor)}</b><br><span class="fine">${esc(t.jahr)} · ${esc(sec.titel)}</span></div>
       ${units.map(u => `<div class="vunit">
         <div class="fine"><a href="#/text/${m.id}/${sec.id}/${u.n}">${esc(sec.zk)} [${u.n}]</a>${u.titel ? ` · ${esc(u.titel)}` : ""}</div>
         <div class="text">${esc(u.en)}</div></div>`).join("")}
@@ -194,11 +201,18 @@ function plates() {
   view.innerHTML = `
     <span class="tag">Tafeln</span><h1>Bildnisse, Ansichten, Drucke</h1>
     <p class="lede">${esc(D.plates.lede || "")}</p>
-    <div class="grid g4">${D.plates.plates.map(p => `
-      <figure class="plate card"><a href="#" data-p="${p.id}"><img src="assets/plates/${p.id}_t.jpg" alt="${esc(p.titel)}"></a>
-      <figcaption>${side(p.side)} <b>${esc(p.titel)}</b><br>${esc(p.caption)}<br><i>${esc(p.source)}</i></figcaption></figure>`).join("")}</div>
+    <div class="grid g4">${D.plates.plates.map(plateFig).join("")}</div>
     <p class="fine">${esc(D.plates.credit)}</p>`;
-  view.querySelectorAll("[data-p]").forEach(a => a.onclick = e => {
+  bindPlates(view);
+}
+
+function plateFig(p) {
+  return `<figure class="plate card"><a href="#" data-p="${p.id}"><img src="assets/plates/${p.id}_t.jpg" alt="${esc(p.titel)}"></a>
+      <figcaption>${side(p.side)} <b>${esc(p.titel)}</b><br>${esc(p.caption)}<br><i>${esc(p.source)}</i></figcaption></figure>`;
+}
+
+function bindPlates(root) {
+  root.querySelectorAll("[data-p]").forEach(a => a.onclick = e => {
     e.preventDefault();
     const p = plateOf(a.dataset.p);
     const lb = document.createElement("div");

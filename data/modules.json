@@ -1,13 +1,15 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "gelehrte",
+   "datei": "gelehrte",
    "side": "nachwelt",
-   "kurz": "Die gelehrte Äbtissin, 1502–1521",
-   "warum": "Was die Humanisten an Caritas bewunderten und was sie ihr schrieben: Christoph Scheurls lateinischer Brief und Konrad Celtis’ Gedicht an sie, gedruckt 1513, und die Briefe zwischen ihr und ihrem Bruder Willibald. Wer war die Frau, mit der der Rat 1525 stritt?",
-   "quelle": "Epistola D. Scheurli ad Charitatem Pirchameram, Carmen Conradi Celtis ad eandem (Druck 1513); F. Münch, Charitas Pirkheimer, ihre Schwestern und Nichten. Biographie und Nachlass (Nürnberg 1826)."
-  },
+   "kurz": "Die gelehrte Äbtissin, 1502–1515",
+   "zk": "Celtis, Bruder, Scheurl, Münch",
+   "warum": "Wer war die Frau, mit der der Rat 1525 stritt? Ihre lateinischen Briefe an Konrad Celtis und an ihren Bruder Willibald, Celtis' Ode an sie, Christoph Scheurls Lob von 1506 und das Vorwort des Druckers, der ihre Briefe 1515 ungefragt veröffentlichte, ‚damit das Büchlein sich besser verkauft‘; dazu zwei Sätze Willibalds: Die Franziskaner hätten ihr das Latein verboten. Alles am Seitenbild gelesen, Latein mit Übersetzung, und wie Ernst Münch 1826 sie las. Mit Tafeln und einem Briefnetz."
+  }
+ ],
+ "planned": [
   {
    "id": "sindflut",
    "side": "konvent",
@@ -55,7 +57,7 @@
    "side": "nachwelt",
    "kurz": "Der Bruder: Willibald Pirckheimer und das Kloster",
    "warum": "Willibald Pirckheimer, Humanist, Ratsherr und Freund Dürers, stand anfangs der neuen Lehre nahe und verteidigte doch das Kloster seiner Schwestern. Seine Briefe und seine Schutzschrift für das Klarakloster, soweit sie gemeinfrei gedruckt sind.",
-   "quelle": "F. Münch (1826); W. Pirckheimer, Opera (hg. Goldast, Frankfurt 1610) und spätere Drucke (zu prüfen)."
+   "quelle": "E. Münch (1826); W. Pirckheimer, Opera (hg. Goldast, Frankfurt 1610, benutzt in der Ausgabe 1665)."
   },
   {
    "id": "ende",

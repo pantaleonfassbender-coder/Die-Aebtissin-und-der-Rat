@@ -1,5 +1,34 @@
 {
  "lede": "Bildnisse, Ansichten und Drucke aus gemeinfreien Vorlagen; jede Tafel nennt ihre Quelle und verweist auf die Stelle, zu der sie gehört.",
- "credit": "",
- "plates": []
+ "credit": "Tafeln: Rijksmuseum Amsterdam (CC0) und National Gallery of Art, Washington (gemeinfrei, Open Access), über Wikimedia Commons; Seitenbild aus Pirckheimers Opera (1665) nach dem Scan der Biblioteca Nazionale Centrale di Roma bei Google Books und im Internet Archive (gemeinfrei). Die Bilder sind verkleinert, sonst unverändert.",
+ "plates": [
+  {
+   "id": "roswitha1501",
+   "side": "nachwelt",
+   "titel": "Roswitha überreicht Kaiser Otto I. ihr Buch, 1501",
+   "caption": "Holzschnitt aus Konrad Celtis' Ausgabe der Werke Roswithas von Gandersheim (Nürnberg 1501): Die Dichterin kniet im Nonnenkleid vor dem thronenden Kaiser und reicht ihm ihr Buch, neben ihr die Äbtissin Gerberga. Dieses Buch schickte Celtis an Caritas, und sie dankte für die Ehre, die er ‚den Schriften eines schwachen Weibes‘ erwies (Celtis [2]).",
+   "source": "Albrecht Dürer zugeschrieben, Holzschnitt, 1501; Rijksmuseum Amsterdam, RP-P-OB-1508 (CC0), via Wikimedia Commons."
+  },
+  {
+   "id": "celtis1507",
+   "side": "nachwelt",
+   "titel": "Gedächtnisblatt für Konrad Celtis, 1507",
+   "caption": "Hans Burgkmairs Holzschnitt zeigt Celtis hinter seinen Büchern, die Hände auf ihnen, unter einem Rahmen in der Art eines Grabmals: ‚D M S‘ und ‚Flete pii vates‘, weint, fromme Dichter. Ein Totengedenken, gedruckt zu Lebzeiten. Fünf Jahre zuvor hatte Caritas ihn gemahnt, den Tag des Todes vor Augen zu haben und von Jupiter, Diana und Venus zu lassen (Celtis [6]).",
+   "source": "Hans Burgkmair d. Ä., Holzschnitt, 1507; National Gallery of Art, Washington, 39803 (CC0), via Wikimedia Commons."
+  },
+  {
+   "id": "pirckheimer1524",
+   "side": "nachwelt",
+   "titel": "Willibald Pirckheimer, 1524",
+   "caption": "Albrecht Dürers Kupferstich seines Freundes, mit der Inschrift: ‚Bildnis Willibald Pirckheimers in seinem 53. Lebensjahr. Man lebt durch den Geist; das Übrige wird dem Tod gehören.‘ Der Bruder, dem Caritas ihre lateinischen Briefe zur Verbesserung schickte (Celtis [8]), im Jahr, bevor der Rat das Kloster seiner Schwestern bedrängte.",
+   "source": "Albrecht Dürer, Kupferstich, 1524; National Gallery of Art, Washington, 132982 (gemeinfrei), via Wikimedia Commons."
+  },
+  {
+   "id": "opera_ode",
+   "side": "nachwelt",
+   "titel": "Celtis' Ode im Druck",
+   "caption": "Seite 343 von Pirckheimers Werken: oben der Schluss von Caritas' Brief an Celtis mit dem Datum 25. April 1502 (Celtis [7]), darunter ‚Ad Charitatem de familia Pirckheimerorum‘, die Ode des Celtis (Celtis [3]). Nach dieser Seite ist der lateinische Text des Moduls gelesen.",
+   "source": "Bilibaldi Pirckheimeri Opera (Frankfurt 1665), S. 343; Internet Archive bub_gb_XFSzOVms1AoC (gemeinfrei), Ausschnitt."
+  }
+ ]
 }

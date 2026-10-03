@@ -8,16 +8,55 @@
    "text": "In Eichstätt wird Barbara Pirckheimer geboren, die älteste Tochter eines gelehrten Juristen; ihr Bruder Willibald kommt drei Jahre später zur Welt. Mit zwölf Jahren tritt sie ins Nürnberger Klarakloster ein und nimmt den Namen Caritas an. (Nach der neueren Literatur; Modul geplant.)"
   },
   {
+   "d": "1502",
+   "side": "nachwelt",
+   "titel": "Celtis und die Nonne",
+   "text": "Konrad Celtis schickt Caritas die Werke der Roswitha von Gandersheim, dann sein Buch über Nürnberg mit einer Ode an sie. Sie antwortet lateinisch, am 25. April mit einer Mahnung: weg von Jupiter, Diana und Venus. Den Brief schickt sie vorher ihrem Bruder zur Korrektur.",
+   "cite": "#/text/gelehrte/celtis/3",
+   "citeLabel": "Celtis [3]",
+   "plate": "roswitha1501"
+  },
+  {
    "d": "1503",
    "side": "konvent",
    "titel": "Die Äbtissin",
-   "text": "Der Konvent wählt Caritas zur Äbtissin. (Nach der neueren Literatur; Modul geplant.)"
+   "text": "Der Konvent wählt Caritas zur Äbtissin, ‚unter großer Zustimmung aller‘, wie Scheurl 1506 schreibt; Willibald meldet es Celtis 1504. Das Jahr 1503 nach der neueren Literatur.",
+   "cite": "#/text/gelehrte/scheurl/2",
+   "citeLabel": "Scheurl [2]"
+  },
+  {
+   "d": "1504",
+   "side": "konvent",
+   "titel": "Die Äbtissin, und das Latein verboten",
+   "text": "Willibald schreibt an Celtis: Seine Schwester sei zur Äbtissin gemacht worden, und die ‚Holzfüße‘, die Franziskaner, hätten ihr verboten, künftig lateinisch zu schreiben. (Nur nach Münchs Zitat überliefert.)",
+   "cite": "#/text/gelehrte/bruder/5",
+   "citeLabel": "Bruder [5]"
+  },
+  {
+   "d": "1. September 1506",
+   "side": "nachwelt",
+   "titel": "Scheurls Lob",
+   "text": "Christoph Scheurl schreibt aus Bologna, er kenne nur zwei gelehrte Frauen: Cassandra Fedele in Venedig und Caritas Pirckheimer in Nürnberg. Sie habe statt der Spindel die Feder geführt.",
+   "cite": "#/text/gelehrte/scheurl/2",
+   "citeLabel": "Scheurl [2]"
   },
   {
    "d": "1513",
    "side": "nachwelt",
-   "titel": "Die gelehrte Frau",
-   "text": "Christoph Scheurl lässt einen lateinischen Brief an Caritas drucken, zusammen mit einem Gedicht, das Konrad Celtis an sie gerichtet hatte: Die Humanisten zeigen der Welt eine gelehrte Äbtissin. (Modul geplant.)"
+   "titel": "Plutarch für die Schwester",
+   "text": "Willibald widmet seiner Schwester eine lateinische Plutarch-Übersetzung. Sie dankt: Sie sei nicht gelehrt, aber eine Liebhaberin der Gelehrten; im Kloster lebe seine fünfzehnjährige Tochter ‚wie eine Matrone‘.",
+   "cite": "#/text/gelehrte/bruder/2",
+   "citeLabel": "Bruder [2]",
+   "plate": "pirckheimer1524"
+  },
+  {
+   "d": "April 1515",
+   "side": "nachwelt",
+   "titel": "Die Briefe im Druck",
+   "text": "Der Nürnberger Drucker Federicus Peypus veröffentlicht ‚vier oder fünf‘ lateinische Briefe der Äbtissin, die ihm ‚durch Zufall‘ in die Hände gekommen seien, damit das Büchlein sich besser verkaufe. Dank von der Verfasserin erwartet er nicht.",
+   "cite": "#/text/gelehrte/scheurl/4",
+   "citeLabel": "Scheurl [4]",
+   "plate": "opera_ode"
   },
   {
    "d": "1524",

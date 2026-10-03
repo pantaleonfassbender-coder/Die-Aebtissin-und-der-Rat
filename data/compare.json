@@ -412,6 +412,57 @@
      ]
     }
    ]
+  },
+  {
+   "id": "hinausgeben",
+   "titel": "Hinausgeben, wo sie hereinkam",
+   "frage": "1525 und 1539: zweimal muss eine Äbtissin eine junge Frau gegen deren Willen hinausgeben.",
+   "note": "Caritas gab die drei Töchter 1525 durch die Kapellentür hinaus, ‚da ich sie hereingenommen hatte‘, und nicht heimlich durchs Gartentor. Katharina Pirckheimer gab das Glaser-Käterlein 1539 durch die Drehlade hinaus, ‚da sie herein ist kommen‘, damit der Rat sehe, dass die Schwestern die Wahrheit sagten. Die Nichte tat, was die Tante getan hatte.",
+   "voices": [
+    {
+     "text": "toechter",
+     "sec": "fronleichnam",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "ende",
+     "sec": "kaeterlein",
+     "n": [
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aufnehmen",
+   "titel": "Wer hereinkommen darf",
+   "frage": "1525 wollte der Konvent niemanden wieder aufnehmen, der einmal draußen war; 1539 bittet er, eine Magd behalten zu dürfen; um 1586 leben Augustinerinnen aus Pillenreuth im Kloster.",
+   "note": "Im Fall Tetzel erklärte der Konvent, wer hinausgehe, komme nicht wieder herein, damit ‚das Hinaus- und Hineinlaufen‘ kein Ende nehme. Vierzehn Jahre später ist nicht das Hinauslaufen das Problem, sondern dass niemand mehr hereinkommen darf: Der Konvent bittet um ein Mädchen, das nicht einmal Nonne werden soll. Am Ende wohnten im Kloster Schwestern eines anderen Ordens, Vertriebene aus einem zerstörten Kloster; eine von ihnen starb als letzte.",
+   "voices": [
+    {
+     "text": "dieb",
+     "sec": "klage",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "ende",
+     "sec": "kaeterlein",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "ende",
+     "sec": "koppius",
+     "n": [
+      3
+     ]
+    }
+   ]
   }
  ]
 }

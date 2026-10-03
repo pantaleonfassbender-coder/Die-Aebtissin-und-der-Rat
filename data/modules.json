@@ -55,6 +55,14 @@
    "kurz": "Visitiert und verlassen, 1526–1528",
    "zk": "Visitation, Anna, Bamberg",
    "warum": "Die letzten Seiten der Denkwürdigkeiten. An Allerseelen 1527 kommen Ratsherren und ein Jurist, um die Schwestern einzeln über ihr Gewissen zu befragen; die Äbtissin: ‚Ihr seid heftige Beichtväter.‘ 39 lassen sich befragen, 13 nicht. Eine, Anna Schwarz, geht im Februar 1528 aus eigenem Willen; ihre Begründung musste sie aus der Quittung streichen. Im August 1528 lädt der Bischof von Bamberg vor, und die Aufzeichnungen enden. Höfler S. 176–191, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und den 52 Schwestern als Grafik."
+  },
+  {
+   "id": "ende",
+   "datei": "ende",
+   "side": "nachwelt",
+   "kurz": "Bis 1596: das Ende des Klosters",
+   "zk": "Käterlein, Koppius",
+   "warum": "1539 lässt sich ein Mädchen durch die Drehlade ins Kloster schmuggeln; der Konvent will sie als Magd behalten, weil die Hände fehlen, der Rat lässt sie an die Kette legen. 1628 sammelt ein Bamberger Beichtvater, was vom Nürnberger Klarakloster bekannt ist: 55 Äbtissinnen, eine alte Magd, die drei letzte Klarissen und sechs vertriebene Augustinerinnen kannte, ein Franziskaner, der heimlich in weltlichen Kleidern kam. Die letzte Klarisse starb 1591, die letzte Bewohnerin 1596. Höfler S. 192–207, am Seitenbild gelesen, mit Übersetzung, vier Tafeln und dreihundert Jahren als Grafik."
   }
  ],
  "planned": [
@@ -64,13 +72,6 @@
    "kurz": "Der Bruder: Willibald Pirckheimer und das Kloster",
    "warum": "Willibald Pirckheimer, Humanist, Ratsherr und Freund Dürers, stand anfangs der neuen Lehre nahe und verteidigte doch das Kloster seiner Schwestern. Seine Briefe und seine Schutzschrift für das Klarakloster, soweit sie gemeinfrei gedruckt sind.",
    "quelle": "E. Münch (1826); W. Pirckheimer, Opera (hg. Goldast, Frankfurt 1610, benutzt in der Ausgabe 1665)."
-  },
-  {
-   "id": "ende",
-   "side": "nachwelt",
-   "kurz": "Bis 1596: das Ende des Klosters",
-   "warum": "Was nach Caritas’ Tod 1532 geschah: die letzten Äbtissinnen, die letzten Schwestern, und 1596 der Tod der letzten. Nach der Klosterchronik, die der Bamberger Klarissenbeichtvater Christian Koppius 1628 aus Nürnberger Chroniken und ‚lebendigen Zeugnissen‘ zusammenschrieb.",
-   "quelle": "C. Höfler (Hg.), Der hochberühmten Charitas Pirkheimer, Aebtissin von S. Clara zu Nürnberg, Denkwürdigkeiten aus dem Reformationszeitalter (Bamberg 1852), Anhang (Koppius 1628), S. 200–207."
   },
   {
    "id": "vergleich",

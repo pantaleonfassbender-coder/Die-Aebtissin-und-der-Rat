@@ -2,10 +2,12 @@
  "lede": "Von der Geburt der Äbtissin 1467 bis zum Tod der letzten Schwester 1596. Die Stationen verweisen auf die Stellen im Apparat; wo noch kein Text abgedruckt ist, folgen sie der neueren Literatur und sagen es.",
  "stations": [
   {
-   "d": "21. März 1467",
+   "d": "21. März 1466 oder 1467",
    "side": "konvent",
    "titel": "Barbara Pirckheimer",
-   "text": "In Eichstätt wird Barbara Pirckheimer geboren, die älteste Tochter eines gelehrten Juristen; ihr Bruder Willibald kommt drei Jahre später zur Welt. Mit zwölf Jahren tritt sie ins Nürnberger Klarakloster ein und nimmt den Namen Caritas an. (Nach der neueren Literatur; Modul geplant.)"
+   "text": "Barbara Pirckheimer wird am Benediktstag geboren, die älteste Tochter des Juristen Johannes Pirckheimer; Koppius (1628) und Münch (1826) nennen das Jahr 1466, die neuere Literatur meist 1467. 1478 kommt sie ins Klarakloster und nimmt den Namen Caritas an.",
+   "cite": "#/text/ende/koppius/2",
+   "citeLabel": "Koppius [2]"
   },
   {
    "d": "1502",
@@ -179,13 +181,37 @@
    "d": "19. August 1532",
    "side": "konvent",
    "titel": "Der Tod der Äbtissin",
-   "text": "Caritas Pirckheimer stirbt im Kloster. (Nach der neueren Literatur; Modul geplant.)"
+   "text": "Caritas Pirckheimer stirbt, nach Koppius 66 Jahre alt, nach 29 Jahren als Äbtissin; ihre Schwester Clara folgt ihr für 17 Wochen, dann ihre Nichte Katharina, Willibalds Tochter, für 30 Jahre. Das genaue Datum nach der neueren Literatur.",
+   "cite": "#/text/ende/koppius/2",
+   "citeLabel": "Koppius [2]",
+   "plate": "hoefler_s204"
   },
   {
-   "d": "1596",
+   "d": "5. Oktober 1539",
+   "side": "konvent",
+   "titel": "Das Glaser-Käterlein",
+   "text": "Ein Mädchen lässt sich durch die Drehlade ins Kloster schmuggeln. Der Konvent will sie als Magd behalten, weil die Hände fehlen; der Rat lässt sie herausholen und an die Kette legen. Das Bamberger Klarakloster nimmt sie auf.",
+   "cite": "#/text/ende/kaeterlein/4",
+   "citeLabel": "Käterlein [4]",
+   "plate": "hoefler_s192"
+  },
+  {
+   "d": "1591",
+   "side": "konvent",
+   "titel": "Die letzte Klarisse",
+   "text": "Die letzte Schwester des Klarissenordens im Nürnberger Kloster stirbt, nach dem Bericht zweier Bamberger Nonnen. Ihren Namen nennt die Quelle nicht.",
+   "cite": "#/text/ende/koppius/4",
+   "citeLabel": "Koppius [4]",
+   "plate": "pillenreuth_boener"
+  },
+  {
+   "d": "29. September 1596",
    "side": "nachwelt",
-   "titel": "Die letzte Schwester",
-   "text": "Mit dem Tod der letzten Schwester endet das Nürnberger Klarakloster, das kein Ratsbeschluss aufgelöst hatte. (Nach der Chronik von 1628; Modul geplant.)"
+   "titel": "Die letzte Bewohnerin",
+   "text": "Elisabeth Netzenhöfer stirbt, nach dem Zusammenhang eine der Augustinerinnen aus Pillenreuth, die im Klarakloster Zuflucht gefunden hatten. Die letzte Klarisse war schon 1591 gestorben. Das Kloster blieb, schreibt Koppius 1628, ‚in steter Possession‘ der Schwestern bis 1596.",
+   "cite": "#/text/ende/koppius/4",
+   "citeLabel": "Koppius [4]",
+   "plate": "hoefler_s206"
   }
  ]
 }

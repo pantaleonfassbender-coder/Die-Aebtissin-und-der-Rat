@@ -55,6 +55,11 @@ PLATES = {
     "hoefler_s189": ("ia", "https://archive.org/download/11420769bsb/page/n307_w1400.jpg", (60, 160, 960, 960)),
     "redwitz": ("commons", "File:Weigand von Redwitz.jpg", None),
     "landsknecht_breu": ("commons", "File:Jörg Breu Landsknecht.jpg", None),
+    # Modul 9
+    "hoefler_s192": ("ia", "https://archive.org/download/11420769bsb/page/n310_w1400.jpg", (60, 40, 960, 960)),
+    "hoefler_s204": ("ia", "https://archive.org/download/11420769bsb/page/n322_w1400.jpg", (60, 40, 960, 700)),
+    "hoefler_s206": ("ia", "https://archive.org/download/11420769bsb/page/n324_w1400.jpg", (60, 260, 960, 760)),
+    "pillenreuth_boener": ("commons", "File:Johann Alexander Böner Wahrhafte Abriße 169 Kloster Pillenreuth.jpg", None),
 }
 
 
